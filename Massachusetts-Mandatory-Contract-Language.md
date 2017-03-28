@@ -1,6 +1,6 @@
 # Mandatory Contract Language
 
-For the  Commonwealth of Massachusetts [Accessibility for IT Solutions Contract Language](http://www.mass.gov/anf/research-and-tech/policies-legal-and-technical-guidance/legal-guidance/procurement-forms-and-boiler-plate-lang/accessibility-for-it-solutions-contract-language.html)
+For the Executive Office for Administration and Finance, for the Commonwealth of Massachusetts - [Accessibility for IT Solutions Contract Language](http://www.mass.gov/anf/research-and-tech/policies-legal-and-technical-guidance/legal-guidance/procurement-forms-and-boiler-plate-lang/accessibility-for-it-solutions-contract-language.html)
 
 ## Overview
 
