@@ -2,8 +2,7 @@
 
     10.9c base technical specifications on international standards, when they exist and apply to the relevant procurement, except when the use of international standards would fail to meet the relevant entity’s requirements or would impose greater burdens than the use of recognised Australian standards.
 
-    10.10 Where an Australian standard is applicable for goods or services being procured, tender responses must demonstrate the capability to meet the Australian standard, and contracts must contain evidence of the applicable standards (see
-paragraph 10.37).
+    10.10 Where an Australian standard is applicable for goods or services being procured, tender responses must demonstrate the capability to meet the Australian standard, and contracts must contain evidence of the applicable standards (see paragraph 10.37).
 
     10.37 Where applying a standard (Australian, or in its absence, international) for goods or services, relevant entities must make reasonable enquiries to determine compliance with that standard:
 
