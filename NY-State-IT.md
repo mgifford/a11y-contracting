@@ -17,3 +17,9 @@ The above clause will also apply to the extent that a state agency contracts wit
 information or applications on behalf of, or for, a state agency.  The requirement of this part specifically includes the outsourcing of any of the services identified in this part. 
 
 However, portions of an Intranet, the Internet or an extranet that are outside the control of the state agency or the third-party will not be affected.
+
+## Exemptions
+
+If making specific web-based information and applications accessible in compliance with this policy would cause a fundamental alteration in the service, program, or activity, or would result in an undue financial and administrative burden such content may be exempt from this policy.  Any state agency making a determination of fundamental alteration or undue financial and administrative burden under this policy will document such determination and maintain such documentation.  In the event of an exemption, the state agency will identify the information or services subject to such determination on the relevant web page(s) and specify the alternative method for obtaining such information or services. Nothing in this policy alters a state agency’s independent authority and responsibility to determine what constitutes a fundamental alteration or undue financial and administrative burden.
+
+OFT may request to review any determinations of exemption from this policy. Such review may include, but is not limited to, review of the technical and business analyses, and other project documentation, technologies or systems which are the subject of this policy or any applicable standards.
