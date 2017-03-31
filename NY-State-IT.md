@@ -1,3 +1,5 @@
+# New York State Information Technology Policy - Accessibility of Web-Based Information and Applications
+
 ## [Third Party Web-based Information and Application Development](https://its.ny.gov/sites/default/files/documents/nys_p08-005_memo_09102010.pdf)  
 
 On and after the effective date of this policy, all solicitation documents, contracts and any amendments hereto executed on and after such date shall include the following clause:
