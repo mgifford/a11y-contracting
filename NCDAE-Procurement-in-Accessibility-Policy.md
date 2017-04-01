@@ -1,4 +1,4 @@
-# [Samples of procurement language]()
+# [Samples of procurement language](http://www.ncdae.org/resources/articles/procurement.php)
 Although it is important that any contract language is reviewed by legal counsel, the following represent three samples of procurement language that can be added to enhance accessibility of purchased or licensed products. In these samples, the Section 508 standard is used. Of course any group would want to align their own accessibility standard to what is required of the vendors. These samples represent (1) requests for proposals, (2) purchasing contracts of specific products, and (3) purchasing procedures used for general purchasing:
 
 Three samples of procurement language to enhance accessibility efforts:
