@@ -1,30 +1,35 @@
 # Accessibility Contracting Best Practices
 Building Accessibility Best Practices into Contracting
 
+## RFP requirements section:
+
+    We require that all purchases be accessible according to the Web Accessibility Initiative 
+    (WAI) Web Content Accessibility Guidelines 2.0 AA. 
+
+or
+
+    All content, interfaces, and navigation elements to be used for this project must be 
+    compliant with Web Accessibility Initiative (WAI) Web Content Accessibility Guidelines 2.0 AA. 
+    Compliance means that a person with a disability can percieve, operate and understand the 
+    interface the same as a person without a disability.
+
 ## Questions for the Procurer (Client):
  - Is there an established accessibility procurement policy or a procurement policy where accessibility is explicitly mentioned?
  - The procurement contract should include language that specifically documents how satisfactory progress on accessibility will be measured. 
  - If the product is currently accessible, the contract should include language that assures continued accessibility as the product is updated. 
- - Who on the organization's side is responsible for evaluating accessibility of the product delivered?
  - Is there a 3rd party audit built into procurment?
  - Do your boiler-plate contracts state that your organization owns the IP generated? If you are using open-source software, do you explicitly support fixing problems (or even reporting) problems in the source libraries?
- - How are Voluntary Product Accessibility Template (VPAT)s seen & evaluated within your institution?
- - Has Vendor inability to provide accessible products has affected purchasing decisions?
  - How are you planning to use the product?
+
+### Internal expertise
+ - Is there a Accessible Technology Initiative (ATI) person in your organization who can help ensure consistent implementation of Accessible ICT procurement procedures?
+ - Who on the organization's side is responsible for evaluating accessibility of the product delivered?
+ - How are Voluntary Product Accessibility Template (VPAT)s seen & evaluated within your institution?
+ - Has Vendor inability to provide accessible products has affected purchasing decisions? Where is success/failure recorded in your institution?
  - Would you be able and willing to submit problems to the product's issue tracking system?
  - When a product has a fix for a problem that you have identified, would you be willing to help verify the fix?
- - What assistive technology is commonly supported?
- - Who is going to be the primary accessibility lead within our organization?
-
-## RFO requirements section:
-
-We require that all purchases be accessible according to the Web Accessibility Initiative (WAI) Web Content Accessibility Guidelines 2.0 AA. 
-
-
-or
-
-
-All content, interfaces, and navigation elements to be used for this project must be compliant with Web Accessibility Initiative (WAI) Web Content Accessibility Guidelines 2.0 AA. Compliance means that a person with a disability can percieve, operate and understand the interface the same as a person without a disability.
+ - Who is maintaining the list of what assistive technology is supported?
+ - Who is the primary accessibility lead within our organization?
 
 
 ## In section listing the various questions that Vendors need to respond to, include:
