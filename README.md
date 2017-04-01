@@ -2,13 +2,19 @@
 Building Accessibility Best Practices into Contracting
 
 ## Questions for the Procurer (Client):
- - Is there an accessibility specific procurement policy or a procurement policy where accessibility is mentioned?
+ - Is there an established accessibility procurement policy or a procurement policy where accessibility is explicitly mentioned?
  - The procurement contract should include language that specifically documents how satisfactory progress on accessibility will be measured. 
  - If the product is currently accessible, the contract should include language that assures continued accessibility as the product is updated. 
  - Who on the organization's side is responsible for evaluating accessibility of the product delivered?
  - Is there a 3rd party audit built into procurment?
  - Do your boiler-plate contracts state that your organization owns the IP generated? If you are using open-source software, do you explicitly support fixing problems (or even reporting) problems in the source libraries?
- - How are VPATs seen & evaluated within your institution?
+ - How are Voluntary Product Accessibility Template (VPAT)s seen & evaluated within your institution?
+ - Has Vendor inability to provide accessible products has affected purchasing decisions?
+ - How are you planning to use the product?
+ - Would you be able and willing to submit problems to the product's issue tracking system?
+ - When a product has a fix for a problem that you have identified, would you be willing to help verify the fix?
+ - What assistive technology is commonly supported?
+ - Who is going to be the primary accessibility lead within our organization?
 
 ## RFO requirements section:
 
@@ -29,6 +35,8 @@ All content, interfaces, and navigation elements to be used for this project mus
  - If your product is not WCAG 2.0 AA compliant, do you have a roadmap to make your product fully compliant? If so, include your roadmap. 
  - If we find that there are changes that need to be made to web/mobile interfaces/apps, what guarantee can we have that these will be implemented to our satisfaction prior to go-live/going forward?
  - If you have created a VPAT, is it prepared by a [3rd party](http://www.karlgroves.com/2011/07/07/why-a-third-party-should-prepare-your-vpatgpat/)?
+ - What standards are you using to evaluate accessibility?
+ - How are accessibility features documented? Are they discoverable by the user?
  
 ### Process
  - Describe your accessibility conformance testing process.
@@ -41,6 +49,7 @@ All content, interfaces, and navigation elements to be used for this project mus
  - Have you tested and/or developed your mobile apps (especially iOS) with accessibility in mind?
  - What automated tools do developers & designers use to evaluate their work?
  - Describe the steps you take for manual testing of your interface.
+ - How are you keeping pace with the changes in Assistive Technology?
 
 ### Experience 
  - Do you have clients who require web accessibility? If so, in outline, how are they ensuring your product meets their requirement?
@@ -48,4 +57,6 @@ All content, interfaces, and navigation elements to be used for this project mus
  - What experience do developers on your team have coding for accessibility?
  - Have your developers contributed to any open-source accessibility work you could link to?
  - How do your developers and designers stay up-to-date with best practices with web accessibility?
+ - What resources do you refer to for information about addressing accessibility?
+
 
