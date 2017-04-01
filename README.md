@@ -37,6 +37,7 @@ All content, interfaces, and navigation elements to be used for this project mus
  - If you have created a VPAT, is it prepared by a [3rd party](http://www.karlgroves.com/2011/07/07/why-a-third-party-should-prepare-your-vpatgpat/)?
  - What standards are you using to evaluate accessibility?
  - How are accessibility features documented? Are they discoverable by the user?
+ - Is this product being used by accessibility focused organizations and are there any reviews by them.
  
 ### Process
  - Describe your accessibility conformance testing process.
