@@ -8,6 +8,7 @@ Building Accessibility Best Practices into Contracting
  - Who on the organization's side is responsible for evaluating accessibility of the product delivered?
  - Is there a 3rd party audit built into procurment?
  - Do your boiler-plate contracts state that your organization owns the IP generated? If you are using open-source software, do you explicitly support fixing problems (or even reporting) problems in the source libraries?
+ - How are VPATs seen & evaluated within your institution?
 
 ## RFO requirements section:
 
@@ -27,6 +28,7 @@ All content, interfaces, and navigation elements to be used for this project mus
  - Who will pay to remediate any necessary fixes after purchase?
  - If your product is not WCAG 2.0 AA compliant, do you have a roadmap to make your product fully compliant? If so, include your roadmap. 
  - If we find that there are changes that need to be made to web/mobile interfaces/apps, what guarantee can we have that these will be implemented to our satisfaction prior to go-live/going forward?
+ - If you have created a VPAT, is it prepared by a [3rd party](http://www.karlgroves.com/2011/07/07/why-a-third-party-should-prepare-your-vpatgpat/)?
  
 ### Process
  - Describe your accessibility conformance testing process.
