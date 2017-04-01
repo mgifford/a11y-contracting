@@ -60,5 +60,6 @@ All content, interfaces, and navigation elements to be used for this project mus
  - Have your developers contributed to any open-source accessibility work you could link to?
  - How do your developers and designers stay up-to-date with best practices with web accessibility?
  - What resources do you refer to for information about addressing accessibility?
+ - Have you adopted a [Policy-driven Adoption for Accessibility (PDAA)](http://mn.gov/mnit/programs/accessibility/it-procurement.jsp) framework to demonstrate the extent to which your organization has implemented accessibility best practices?
 
 
