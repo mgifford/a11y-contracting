@@ -20,17 +20,20 @@ or
  - Is there a 3rd party audit built into procurment?
  - Do your boiler-plate contracts state that your organization owns the IP generated? If you are using open-source software, do you explicitly support fixing problems (or even reporting) problems in the source libraries?
  - How are you planning to use the product?
+ - How are Voluntary Product Accessibility Template (VPAT)s seen & evaluated within your institution?
 
 ### Internal expertise
  - Is there a Accessible Technology Initiative (ATI) person in your organization who can help ensure consistent implementation of Accessible ICT procurement procedures?
  - Who on the organization's side is responsible for evaluating accessibility of the product delivered?
- - How are Voluntary Product Accessibility Template (VPAT)s seen & evaluated within your institution?
- - Has Vendor inability to provide accessible products has affected purchasing decisions? Where is success/failure recorded in your institution?
- - Would you be able and willing to submit problems to the product's issue tracking system?
- - When a product has a fix for a problem that you have identified, would you be willing to help verify the fix?
+ - Who oversees the review of ICT accessibility compliance documentation?
+ - Who coordinates with ICT vendors to resolve issues with accessibility support or documentation?
+ - Who is the primary contact for questions regarding Accessible ICT procurement?
+ - Does someone coordinate the delivery of Accessible ICT procurement training programs in your institution?
+ - Has Vendor inability to provide accessible products has affected purchasing decisions? Who maintains a success/failure record in your institution?
+ - Will someone be able and willing to submit problems to the product's issue tracking system?
+ - When a product has a fix for a problem that you have identified, who will be able to verify the fix?
  - Who is maintaining the list of what assistive technology is supported?
  - Who is the primary accessibility lead within our organization?
-
 
 ## In section listing the various questions that Vendors need to respond to, include:
 
@@ -66,5 +69,3 @@ or
  - How do your developers and designers stay up-to-date with best practices with web accessibility?
  - What resources do you refer to for information about addressing accessibility?
  - Have you adopted a [Policy-driven Adoption for Accessibility (PDAA)](http://mn.gov/mnit/programs/accessibility/it-procurement.jsp) framework to demonstrate the extent to which your organization has implemented accessibility best practices?
-
-
