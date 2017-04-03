@@ -9,8 +9,6 @@ Prior to tendering, Tenderers should be satisfied that they can meet these guide
 1. The Tenderer must, as far as possible, meet all appropriate and achievable checkpoints from all priority levels (1, 2 and 3) of the Authoring Tool Accessibility Guidelines (ATAG) 1.0 from the Web Accessibility Initiative (WAI).
 Tenderer should note that the Department may arrange for an independent accessibility assessment for the new websites.
 2. It is essential that the proposed websites fulfill the following criteria:
-
--
   - Be capable of producing valid HTML and CSS code;
   - For all images, oblige authors to either include a text alternative or indicate that the  image has no information content and add all attributes accordingly;
   - Enable authors to identify heading levels and lists and apply markup accordingly;
