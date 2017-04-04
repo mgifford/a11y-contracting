@@ -18,7 +18,8 @@ or
  - The procurement contract should include language that specifically documents how satisfactory progress on accessibility will be measured. 
  - If the product is currently accessible, the contract should include language that assures continued accessibility as the product is updated. 
  - Is there a 3rd party audit built into procurment?
- - Do your boiler-plate contracts state that your organization owns the IP generated? If you are using open-source software, do you explicitly support fixing problems (or even reporting) problems in the source libraries?
+ - Do your boiler-plate contracts state that your organization owns the IP generated? If you are using open-source software, do you explicitly support fixing problems (or even reporting) problems in the source libraries? 
+ - Do you use a "work for hire" policy which traps all intellectual property done with institution money/time? Is it possible to explicitly exempt open-source contributions or encourage contributions?
  - How are you planning to use the product?
  - How are Voluntary Product Accessibility Template (VPAT)s seen & evaluated within your institution?
 
