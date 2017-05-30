@@ -13,6 +13,9 @@ or
     Compliance means that a person with a disability can percieve, operate and understand the 
     interface the same as a person without a disability.
 
+## Don't include in RFP
+ - Any specific requirements to use Web Accessibility Initiatives – Accessible Rich Internet Applications (“WAI-ARIA”) to further enhance accessibility. If used properly it will, but it doesn't add anything beyond WCAG 2.0 AA above and can destract from accessibility if it is implemented poorly. 
+
 ## Questions for the Procurer (Client):
  - Is there an established accessibility procurement policy or a procurement policy where accessibility is explicitly mentioned?
  - The procurement contract should include language that specifically documents how satisfactory progress on accessibility will be measured. 
