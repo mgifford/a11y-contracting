@@ -73,3 +73,6 @@ or
  - How do your developers and designers stay up-to-date with best practices with web accessibility?
  - What resources do you refer to for information about addressing accessibility?
  - Have you adopted a [Policy-driven Adoption for Accessibility (PDAA)](http://mn.gov/mnit/programs/accessibility/it-procurement.jsp) framework to demonstrate the extent to which your organization has implemented accessibility best practices?
+
+## Useful Links
+- [Ireland's NDA IT Procurement Toolkit](http://universaldesign.ie/Technology-ICT/IT-Procurement-Toolkit/IT-Procurement-Toolkit.html)
