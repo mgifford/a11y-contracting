@@ -43,6 +43,7 @@ or
 
 ### Product
  - Are all interfaces (both for administrators and end-users) that are part of your product compliant with WCAG 2.0 AA?
+ - Does this product meet any targets for ATAG 2.0 AA, Part B?
  - Who will pay to remediate any necessary fixes after purchase?
  - If your product is not WCAG 2.0 AA compliant, do you have a roadmap to make your product fully compliant? If so, include your roadmap. 
  - If we find that there are changes that need to be made to web/mobile interfaces/apps, what guarantee can we have that these will be implemented to our satisfaction prior to go-live/going forward?
@@ -64,6 +65,7 @@ or
  - What automated tools do developers & designers use to evaluate their work?
  - Describe the steps you take for manual testing of your interface.
  - How are you keeping pace with the changes in Assistive Technology?
+ - What training do you give to your staff to see that inclusion is understood?
 
 ### Experience 
  - Do you have clients who require web accessibility? If so, in outline, how are they ensuring your product meets their requirement?
@@ -73,6 +75,7 @@ or
  - How do your developers and designers stay up-to-date with best practices with web accessibility?
  - What resources do you refer to for information about addressing accessibility?
  - Have you adopted a [Policy-driven Adoption for Accessibility (PDAA)](http://mn.gov/mnit/programs/accessibility/it-procurement.jsp) framework to demonstrate the extent to which your organization has implemented accessibility best practices?
+ - Does your website & proposal reflect knowledge of accessibility? How well does the vendor site score with automated tests like http://wave.webaim.org/ or https://tenon.io/
 
 ## Useful Links
 - [Ireland's NDA IT Procurement Toolkit](http://universaldesign.ie/Technology-ICT/IT-Procurement-Toolkit/IT-Procurement-Toolkit.html)
