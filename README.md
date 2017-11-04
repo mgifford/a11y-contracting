@@ -83,3 +83,4 @@ or
 - [Minnesota IT Services Procurement for accessible IT products and services](https://mn.gov/mnit/programs/accessibility/it-procurement.jsp)
 - [OpenConcept's Draft Procurement Policy](https://openconcept.ca/blog/mike/drafting-procurement-policy)
 - [Partnership on Employment & Accessible Technology (PEAT)'s Buy IT](http://www.peatworks.org/Buy-IT)
+- [Fluid Project - Accessible ICT Procurement Policy Wiki](https://wiki.fluidproject.org/display/fluid/Accessible+ICT+Procurement+Policy)
