@@ -57,64 +57,45 @@ a. All communications will be available in French and English and will be provid
 a. All formal communications and ammendments will be made through the Buy and Sell website - https://buyandsell.gc.ca/
 
 ### LOI Process
-a. GC issues a LOI to get express interest in the pilot.
-a. Industry submits letters (3 pages + provided signature page).
-a. GC does what??
+  - GC issues a LOI to get express interest in the pilot.
+  - Industry submits letters (3 pages + provided signature page).
+  - Submissions should be sent directly to the Contracting Authority on or before December 12, 2017 at 14h00 EST.
+  - GC reserves the right to request additional information for clarification after submission. 
+  - No payment will be made for costs incurred in this phase.
+  - GC is under no obligation enter into any agreement or to accept any suggestions from industry.
+  - This industry consultation process is not a solicitation and a contract will not result from this request.
 
-### CFP PROCESS 
-a. GC issues CFP based on feedback received from Industry.
-a. CFP will include assessment criteria that are both mandatory and point-rated. 
-a. Proposals which meet all mandatory criteria and the minimum point-rated criteria score will be placed in a pool of pre-qualified proposals, provided that the total evaluated price does not exceed the budget available for the requirements. 
-a. Following the evaluation process, GC intends to award a contract to the three top ranked bidders from the pool of pre-qualified proposals for each of the challenges. 
+### Planned CFP PROCESS 
+  - GC issues CFP based on feedback received from Industry.
+  - CFP will include assessment criteria that are both mandatory and point-rated. 
+  - Proposals which meet all mandatory criteria and the minimum point-rated criteria score will be placed in a pool of pre-qualified proposals, provided that the total evaluated price does not exceed the budget available for the requirements. 
+  - Following the evaluation process, GC intends to award a contract to the three top ranked bidders from the pool of pre-qualified proposals. 
 
-The proposed contract will include three 3 Phases:
-- Phase 1 - each contractor will be required to demonstrate a functional prototype of their Solution (defined as a minimum viable demonstration of capability) at a presentation to a panel anticipated to be held in Shawinigan, Quebec in mid-March 2018. With the approval of the panel the Contractor(s) may be encouraged to proceed to Phase 2.
+The proposed contract will include three 3 Phases. In Phase 1 each Contractor will be required to:
+  - demonstrate a functional prototype of their Solution (defined as a minimum viable demonstration of capability).
+  - The presentation to a panel anticipated to be held in Shawinigan, Quebec in mid-March 2018. Reasonable expenses for attending the panel presentation will be covered, see Appendix X for details.
+  - The maximum funding available for Phase 1 of any contract resulting from this CFP is $15,000.00, applicable Taxes excluded.
 
-- Phase 2 (optional) - 
+The maximum funding available for all phases of any contract resulting from this CFP is $320,000 for the Open by Default accessibility challenge, applicable taxes and travel and living expenses are excluded.
 
-The Contractor will be reimbursed its authorized travel and living expenses reasonably and properly incurred in the performance of the Work, at cost, without any allowance for profit and/or administrative overhead, in accordance with the meal, private vehicle and incidental expenses provided in Appendices B, C and D of the National Joint Council Travel Directive and with the other provisions of the directive referring to "travellers", rather than those referring to "employees".
+## 1. GOVERNMENT OF CANADA APPLICABLE POLICIES
 
-All travel must have the prior authorization of the Technical Authority.
+All Bidders responding to the resulting CFP must be in possession of a Procurement Business Number (PBN) which can be obtained through the Supplier Registration Information System - https://srisupplier.contractscanada.gc.ca
 
-The maximum funding available for Phase 1 of any contract resulting from this CFP is $15,000.00, applicable Taxes excluded.
+These policies apply:
+- The Code of Conduct for Procurement and Public Services - https://www.tpsgc-pwgsc.gc.ca/apropos-about/code-cond-eng.html
+- Procurement Canada’s Integrity Provisions - https://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-eng.html
 
-The maximum funding available for all phases of any contract resulting from this CFP is $320,000 for the Open by Default accessibility challenge and $115,000 for the Accessibility 10.0 Recruitment challenge, applicable taxes and travel and living expenses are excluded.
+## 1. LICENCING
 
-## 5. GOVERNMENT OF CANADA APPLICABLE POLICIES
+Solutions developed (not pre-existing) for either challenge must be licenced under the MIT Licence. Where Bidders are leveraging existing open source projects, adopting the parent licence of the open source software project is preferred, where the licence is approved by the Open Source Institute (OSI). A list of OSI approved licences is available at - https://opensource.org/licenses/alphabetical
 
-Suppliers interested in doing business with the federal government are encouraged to register in the Supplier Registration Information System (https://srisupplier.contractscanada.gc.ca) to be assigned a Procurement Business Number (PBN). Bidders responding to the resulting CFP must be in possession of a PBN.
+Under any contract resulting from the CFP, the Contractor will be required to deposit the Solution’s source code in a public facing repository on the GitHub platform - https://github.com - under an open source license as specified above.
 
-The Canadian Content Policy does not apply to this requirement. 
 
-The Code of Conduct for Procurement and Public Services and Procurement Canada’s Integrity Provisions will apply. The Contractor will own Intellectual Property Rights in Foreground Information.
+## 1. CONTRACTING AUTHORITY
 
-## 6. LICENCING
-
-Solutions developed (not pre-existing) for either challenge must be licenced under the MIT Licence. Where Bidders are leveraging existing open source projects, adopting the parent licence of the open source software project is acceptable, where the licence is approved by the Open Source Institute. A list of approved licences is available at the following link: Open Source Licences (https://opensource.org/licenses/alphabetical). 
-
-Under any contract resulting from the CFP, the Contractor will be required to deposit the Solution’s source code in a public facing repository on the Git Hub platform (https://github.com) – under an open source license as specified above.
-
-## 7. REVIEW OF THE LOI
-
-Canada reserves the right to request additional information for clarification during the review of the responses to this LOI. 
-
-No payment will be made for costs incurred in the preparation and submission of a response to the LOI. Costs associated with preparing and submitting a response, as well as any costs incurred by the respondent associated with the evaluation of the LOI, are the sole responsibility of the respondent.
-
-## 8. NO OBLIGATION
-
-The issuance of this LOI does not create an obligation for Canada to issue a subsequent solicitation and does not bind Canada legally or otherwise, to enter into any agreement or to accept any suggestions from industry.
-
-This industry consultation process is not a solicitation and a contract will not result from this request.
-
-Potential respondents are advised that any information submitted to Canada in response to this industry consultation process may be used by Canada in the development of a subsequent competitive CFP. However, Canada is not bound to accept any expression of interest or to consider it further in any associated documents such as a CFP.
-
-## 9. CLOSING DATE
-
-Responses to this LOI shall be submitted directly to the Contracting Authority on or before December 12, 2017 at 14h00 EST.
-
-## 10. CONTRACTING AUTHORITY
-
-All enquiries and communication with the Government regarding Canada’s requirement under this LOI must be directed in writing to the Public Services and Procurement Canada Contracting Authority as detailed below. Any clarification or information received from other Government officials will not be considered as an official response.
+All enquiries and communication with the Government regarding GC’s requirement under this LOI must be directed in writing to the Public Services and Procurement Canada Contracting Authority as detailed below. Any clarification or information received from other Government officials will not be considered as an official response.
 
 Heather Wilson 
 Supply Team Leader
@@ -138,25 +119,23 @@ a. Discuss their views concerning the requirement and to provide positive resolu
 
 b. NOT reveal or discuss any information to the MEDIA/NEWSPAPER regarding the requirement during this consultative process. Any Media questions will be directed to the PWGSC Media Relations Office at 819-956-2313;
 
-c. Throughout the entire Consultative Process, all questions from industry, exchanges of information and all the industry feedback must be provided in writing to the Contracting Authority. In accordance with and subject to the Access to information Act, R.S., 1985, c. A-1, and any other legislative or legal requirement, all information which is provided by a Participant and which is clearly marked as “Proprietary” will not be released or disclosed;
+c. Throughout the entire Consultative Process, all questions from industry, exchanges of information and all the industry feedback must be provided in writing to the Contracting Authority. In accordance with and subject to the Access to Information Act, R.S., 1985, c. A-1, and any other legislative or legal requirement. All information which is provided by a Participant and which is clearly marked as “Proprietary” will not be released or disclosed;
 
-d. Canada is not obligated to issue any CFP, or to negotiate any contract for the requirement;
+d. GC is not obligated to issue any CFP, or to negotiate any contract for the requirement;
 
-e. If Canada does release a CFP, the terms and conditions of the CFP will be subject to Canada's absolute discretion;
+e. If GC does release a CFP, the terms and conditions of the CFP will be subject to GC's absolute discretion;
 
 f. The information gathered from the written responses will be summarized and provided to all Participants, with the exception of proprietary or confidential materials;
 
-g. Canada will not reimburse any person or entity for any cost incurred in participating in this consultative process;
+g. GC will not reimburse any person or entity for any cost incurred in participating in this consultative process;
 
 h. Participation in this Consultative Process will not be a mandatory requirement for any subsequent CFP. An entity will not be precluded from submitting an proposal under any subsequent CFP on account of they not being a Participant;
 
-i. A Draft Statement of Work will be available to industry. 
+i. At any point within this process, a Participant may provide notice to the Contracting Authority that they no longer wish to participate in the Consultative Process. 
 
-j. At any point within this process, a Participant may provide notice to the Contracting Authority that they no longer wish to participate in the Consultative Process. 
+j. Failure to agree to and sign the Rules of Engagement Participation Agreement will result in the exclusion from participation in the consultative process. This Rules of Engagement Participation Agreement must be signed by a duly authorized officer of the Participant in this respect; 
 
-k. Failure to agree to and sign the Rules of Engagement Participation Agreement will result in the exclusion from participation in the consultative process. This Rules of Engagement Participation Agreement must be signed by a duly authorized officer of the Participant in this respect; 
-
-l. A dispute resolution process to manage impasses throughout this Consultative Process must be adhered to as follows:
+k. A dispute resolution process to manage impasses throughout this Consultative Process must be adhered to as follows:
 
 
 ## DISPUTE RESOLUTION PROCESS 
@@ -586,6 +565,24 @@ It is anticipated that a CFP in French and English versions will be posted elect
 
 This requirement is subject to Canadian Free Trade Agreement (CFTA), Comprehensive Economic and Trade Agreement (CETA), North American Free Trade Agreement (NAFTA), and the World Trade Organization’s Agreement on Government Procurement (WTO-AGP).
 
+
+The Canadian Content Policy does not apply to this requirement. 
+
+
+
+# Appendix X
+
+## With respect to Phase 1 of the Procurement Process
+
+The Contractor will be reimbursed its authorized travel and living expenses reasonably and properly incurred in the performance of the Work, at cost, without any allowance for profit and/or administrative overhead, in accordance with the meal, private vehicle and incidental expenses provided in Appendices B, C and D of the National Joint Council Travel Directive and with the other provisions of the directive referring to "travellers", rather than those referring to "employees".
+
+All travel must have the prior authorization of the Technical Authority.
+
+
+# Questionable or inconsistent
+
+## How does this compare with the open source committment of Open Government?
+The Contractor will own Intellectual Property Rights in Foreground Information - https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/4/4007/3#ownership-of-intellectual-property-rights
 
 
 Footer
