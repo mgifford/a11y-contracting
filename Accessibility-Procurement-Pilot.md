@@ -1,3 +1,5 @@
+Taken from https://buyandsell.gc.ca/procurement-data/tender-notice/PW-17-00804940 loi_no_24062-180181_e.pdf & attachment_3_e.pdf
+
 # Accessibility Procurement Pilot
 
 LETTER OF INTEREST
