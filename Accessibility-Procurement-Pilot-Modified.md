@@ -5,37 +5,41 @@ Original from https://github.com/mgifford/a11y-contracting/blob/master/Accessibi
 LETTER OF INTEREST
 ACCESSIBILITY PROCUREMENT PILOT ON BEHALF OF
 TREASURY BOARD OF CANADA SECRETARIAT
-AND
-THE PUBLIC SERVICE COMMISSION OF CANADA
 
 
 ## 1. PURPOSE 
 
-The purpose of this Letter of Interest is to notify industry, academia and other stakeholders of Canada’s intention to issue a Call for Proposals (CFP) in relation to the Treasury Board of Canada Secretariat’s Open by Default Pilot Portal and the Public Service Commission of Canada’s online recruitment system; to provide advance notice of the challenges (see section 3.1 for details of both challenges) for which Canada intends to seek proposals; and to provide industry the opportunity to give written feedback on the requirement and procurement strategy. The Rules of Engagement Participation Agreement for this activity are enclosed as Attachment 1 and the Industry Engagement Questions are enclosed as Attachment 2.
+The purpose of this Letter of Interest is to notify industry, academia and other stakeholders of Canada’s intention to:
+- issue a Call for Proposals (CFP) in relation to the Treasury Board of Canada Secretariat’s Open by Default Pilot Portal; 
+- to provide advance notice of the challenges (see section 3.1 for details of both challenges) for which Canada intends to seek proposals; and 
+- to provide industry the opportunity to give written feedback on the requirement and procurement strategy. 
 
-## 2. BACKGROUND 
+Canada is looking to partner more closely with leading innovators in Canada and abroad to help address accessibility issues specifically relating to documents on the Open by Default Pilot Portal, which is housed on the open government website, Open.canada.ca (“Open Government website”).
 
-The Government of Canada (“Canada”) has made commitments to advance openness and transparency in government. Today, however, the government faces barriers to being completely open to all Canadians. About 14% of the population reports having a disability that limits day-to-day activities and this percentage is projected to grow. Many Canadians also live with invisible disabilities and/or disabilities they don’t wish to report. Canada faces a clear imperative: to be inclusive, and to benefit from the contributions of citizens seeking to participate, government must continue to be fully accessible to persons with disabilities, both within government and in society more broadly.
+## 1. BACKGROUND 
 
-The accelerating pace of digital change means that new tools are constantly being developed to enhance web accessibility. Accessibility issues can be both varied and complex, as can be the efforts to address these issues; however, emerging technologies show promise in helping to promote accessibility and thereby advance user experiences, support inclusion and provide consistency with international and national equality 
-and human rights instruments.
+The Government of Canada (“GC”) is committed to advancing openness and transparency. Governments today face barriers to being completely open to all Canadians. About 14% of Canadians report having a disability that limits day-to-day activities. With an aging population, this percentage will likely increase. Many Canadians also live with invisible disabilities. Others may not wish to report having one. Canada faces a clear imperative to be inclusive. For a multitude of reasons we must work to remove barriers to persons with disabilities in this country.
 
-Canada is looking to partner more closely with leading innovators in Canada and abroad to help address accessibility issues specifically relating to: 
+The accelerating pace of digital change means that new tools are being introduced. Most do so without consideration for accessibility, others are focus on enhancing it. Accessibility issues can be both varied and complex. Emerging approaches show promise in helping to reduce barriers. Canada is committed to raising the bar on accessibility to be an international leader for equality and human rights.
 
-- Documents on the Open by Default Pilot Portal, which is housed on the open government website, Open.canada.ca (“Open Government website”) as described in Attachment 3; and 
-- Searching for and applying to federal government jobs as described in Attachment 4. 
 
-### 2.1 EXISTING WEB STANDARDS, GUIDANCE, AND RESOURCES
+### .1.1 EXISTING WEB STANDARDS, GUIDANCE, AND RESOURCES
 
-For information, Canada uses the following resources to guide our web accessibility activities:
-- Standard on Web Accessibility – Ensures the uniform application of a high level of web accessibility across Government of Canada websites and web applications. 
-- Guidance on Implementing the Standard on Web Accessibility – Assists Government of Canada departments by providing tools, solutions and guidance to advance Web accessibility. 
-- Web Content Accessibility Guidelines (WCAG) 2.0 covers a wide range of recommendations for making Web content more accessible. Following these guidelines will make content accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these. 
-- Authoring Tool Accessibility Guidelines (ATAG) 2.0 - Provides guidelines for designing web content authoring tools that are both more accessible to authors with disabilities and designed to enable, support, and promote the production of more accessible web content by all authors.
+The GC Open Government committments rely on open standards, of which the following shoul be considered for this project.
 
-Beyond the guidance listed above, the Canada takes inspiration from internationally recognized standards that support an improved user experience for users with accessibility requirements. The following should also be considered when creating web experiences and content:
-- EN 301 549 – Accessibility requirements suitable for public procurement of ICT products and services in Europe – Specifies the functional accessibility requirements applicable to ICT products and services, together with a description of the test procedures and evaluation methodology for each accessibility requirement in a form that is suitable for use in public procurement within Europe.
-- Web Content Accessibility Guidelines (WCAG) 2.1 W3C Working Draft 12 September 2017 - WCAG 2.1 extends Web Content Accessibility Guidelines 2.0, which was published as a W3C Recommendation December 2008. Content that conforms to WCAG 2.1 also conforms to WCAG 2.0, and therefore to policies that reference WCAG 2.0.
+These are the guidelines currently required for GC websites: 
+- GC Standard on Web Accessibility – A Government of Canada standard for websites and web applications - https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601
+- GC Guidance on Implementing the Standard on Web Accessibility – Assists departments by providing tools, solutions and guidance - https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/guidance-implementing-standard-web-accessibility.html
+- World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 - the international 2008 standard for web accessibility.  Governments around the world have adopted WCAG 2.0 AA as the goal for most web sites. https://www.w3.org/WAI/intro/wcag
+
+Like all digital medium itself, change is inevitable. GC takes inspiration from internationally recognized standards that support an improved user experience for all users. 
+
+Where possible, the project should take into consideration the best practices outlined in these open standards:
+- W3C WCAG 2.0 AAA - these guidelines were designed to be aspirational. Where possible see if it is possible to leverage these standards.
+- W3C Authoring Tool Accessibility Guidelines (ATAG) 2.0 - This 2015 guideline is in two parts. Part A asks that the authoring experience meets WCAG 2.0 guidelines. Part B supports the production of more accessible web content through better software. 
+- W3C WCAG 2.1 W3C Working Draft - Although still a Working Draft, this revision of the Web Content Accessibility Guidelines 2.0, is working to provide better access for a broader range of people. Content that conforms to WCAG 2.1 also conforms to WCAG 2.0, and therefore to policies that reference WCAG 2.0 - https://www.w3.org/TR/WCAG21/
+- European Union EN 301 549 – A European Union initiative for public procurement for improving accessibility of information and communications technology (ICT) products and services. Specifies the functional accessibility requirements applicable to ICT products and services. Each accessibility requirement includes a description of the test procedures and evaluation methodology - http://mandate376.standards.eu/standard
+
 
 ## 3. REQUIREMENT
 
