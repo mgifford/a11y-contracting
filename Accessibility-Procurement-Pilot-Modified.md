@@ -9,7 +9,7 @@ TREASURY BOARD OF CANADA SECRETARIAT
 
 ## 1. PURPOSE 
 
-The purpose of this Letter of Interest is to notify industry, academia and other stakeholders of Canada’s intention to:
+The purpose of this Letter of Interest (LOI) is to notify industry of GC’s intention to:
 - issue a Call for Proposals (CFP) in relation to the Treasury Board of Canada Secretariat’s Open by Default Pilot Portal; 
 - to provide advance notice of the challenges (see section 3.1 for details of both challenges) for which Canada intends to seek proposals; and 
 - to provide industry the opportunity to give written feedback on the requirement and procurement strategy. 
@@ -23,7 +23,7 @@ The Government of Canada (“GC”) is committed to advancing openness and trans
 The accelerating pace of digital change means that new tools are being introduced. Most do so without consideration for accessibility, others are focus on enhancing it. Accessibility issues can be both varied and complex. Emerging approaches show promise in helping to reduce barriers. Canada is committed to raising the bar on accessibility to be an international leader for equality and human rights.
 
 
-### .1.1 EXISTING WEB STANDARDS, GUIDANCE, AND RESOURCES
+### 2.1 EXISTING WEB STANDARDS, GUIDANCE, AND RESOURCES
 
 The GC Open Government committments rely on open standards, of which the following shoul be considered for this project.
 
@@ -41,34 +41,36 @@ Where possible, the project should take into consideration the best practices ou
 - European Union EN 301 549 – A European Union initiative for public procurement for improving accessibility of information and communications technology (ICT) products and services. Specifies the functional accessibility requirements applicable to ICT products and services. Each accessibility requirement includes a description of the test procedures and evaluation methodology - http://mandate376.standards.eu/standard
 
 
-## 3. REQUIREMENT
+## 1. REQUIREMENT
 
-The Treasury Board of Canada Secretariat (TBS) and the Public Service Commission of Canada (PSC) have separate requirements for proposals to address the long standing barrier of accessibility in support of the Open by Default Pilot Portal and of job seekers searching for and applying to government jobs, respectively. The two challenges for which an open source software solution (“Solution”) (existing or developmental but not proprietary) will be sought are identified below.
+- Any Solution proposed must be open source software (OSS) solution.
 
-Under the CFP, Bidders will be required to demonstrate how their proposed Solutions respond to and address one or both of the challenges.
 
 ### 3.1 TBS - OPEN BY DEFAULT PILOT PORTAL (CHALLENGE 1)
 
 The Challenge for which Solutions will be sought on behalf of TBS is described in Attachment 3, Statement of Work for Open by Default Pilot Portal Challenge. Please note Attachment 3 is a draft document and is subject to change.
 
-### 3.2 PSC – ACCESSIBILITY 10.0 RECRUITM ENT CHALLENGE (CHALLENGE 2)
+## 1. PROCESS
 
-The Challenge for which Solutions will be sought on behalf of PSC is described in Attachment 4, Statement of Work for Accessibility 10.0 Recruitment Challenge.
+### General
+a. All communications will be available in French and English and will be provided in an accessible format.
+a. All formal communications and ammendments will be made through the Buy and Sell website - https://buyandsell.gc.ca/
 
-Please note Attachment 4 is a draft document and is subject to change.
+### LOI Process
+a. GC issues a LOI to get express interest in the pilot.
+a. Industry submits letters (3 pages + provided signature page).
+a. GC does what??
 
-## 4. ACQUISITION STRATEGY
+### CFP PROCESS 
+a. GC issues CFP based on feedback received from Industry.
+a. CFP will include assessment criteria that are both mandatory and point-rated. 
+a. Proposals which meet all mandatory criteria and the minimum point-rated criteria score will be placed in a pool of pre-qualified proposals, provided that the total evaluated price does not exceed the budget available for the requirements. 
+a. Following the evaluation process, GC intends to award a contract to the three top ranked bidders from the pool of pre-qualified proposals for each of the challenges. 
 
-It is anticipated t hat a CFP in French and English versions will be posted electronically on the Government Electronic Tendering Service (GETS), namely the Buy and Sell website (https://buyandsell.gc.ca/). 
+The proposed contract will include three 3 Phases:
+- Phase 1 - each contractor will be required to demonstrate a functional prototype of their Solution (defined as a minimum viable demonstration of capability) at a presentation to a panel anticipated to be held in Shawinigan, Quebec in mid-March 2018. With the approval of the panel the Contractor(s) may be encouraged to proceed to Phase 2.
 
-This requirement is subject to Canadian Free Trade Agreement (CFTA), Comprehensive Economic and Trade Agreement (CETA), North American Free Trade Agreement (NAFTA), and the World Trade Organization’s Agreement on Government Procurement (WTO-AGP).
-
-### 4.1 CFP PROCESS 
-
-Proposals submitted under the CFP will be a ssessed against criteria tabled in the mandatory and point-rated evaluation criteria (to be detailed in the resulting CFP solicitation document). Proposals which meet all mandatory criteria and the minimum point-rated criteria score will be placed in a pool of pre-qualified proposals for each of the challenges, provided that the total evaluated price does not exceed the budget available for the requirements. 
-
-
-Following the evaluation process, Canada intends to award a contract to the three top ranked bidders from the pool of pre-qualified proposals for each of the challenges. The proposed contract will include three 3 Phases, Phases 2 and 3 will be optional. Under Phase 1 of the resulting contract, each contractor will be required to demonstrate a functional prototype of their Solution (defined as a minimum viable demonstration of capability) at a presentation to a panel anticipated to be held in Shawinigan, Quebec in mid-March 2018. The panel will observe the presentations and may recommend Contractor(s) to proceed to Phase 2.
+- Phase 2 (optional) - 
 
 The Contractor will be reimbursed its authorized travel and living expenses reasonably and properly incurred in the performance of the Work, at cost, without any allowance for profit and/or administrative overhead, in accordance with the meal, private vehicle and incidental expenses provided in Appendices B, C and D of the National Joint Council Travel Directive and with the other provisions of the directive referring to "travellers", rather than those referring to "employees".
 
@@ -576,6 +578,13 @@ Current Infrastructure
 The Open by Default pilot is built on an infrastructure as described by the diagram below.
 
 Image missing
+
+
+# Not Useful For Procurement
+
+It is anticipated that a CFP in French and English versions will be posted electronically on the Government Electronic Tendering Service (GETS), namely the Buy and Sell website (https://buyandsell.gc.ca/). 
+
+This requirement is subject to Canadian Free Trade Agreement (CFTA), Comprehensive Economic and Trade Agreement (CETA), North American Free Trade Agreement (NAFTA), and the World Trade Organization’s Agreement on Government Procurement (WTO-AGP).
 
 
 
