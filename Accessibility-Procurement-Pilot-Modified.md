@@ -155,12 +155,12 @@ k. A dispute resolution process to manage impasses throughout this Consultative 
 
 2. Any dispute between the Parties of any nature arising out of or in connection with this Consultative Process must be resolved by the following process:
 
-  a. Any such dispute must first be referred to the Participant's Representative and the PWGSC Manager managing the Consultative Process. The parties will have 3 Business Days in which to resolve the dispute.
-  b. In the event the representatives of the Parties specified in Article 2.a. above are unable to resolve the dispute, it will be referred to the Participant's Project Director and the PWGSC Seni or Direct or of the Division responsible to manage the Consultative Process. The parties will have 3 Business Days to resolve the dispute.
-  c. In the event the representatives of the Parties specified in Article 2.b. above are unable to resolve the dispute, 
+    a. Any such dispute must first be referred to the Participant's Representative and the PWGSC Manager managing the Consultative Process. The parties will have 3 Business Days in which to resolve the dispute.
+    b. In the event the representatives of the Parties specified in Article 2.a. above are unable to resolve the dispute, it will be referred to the Participant's Project Director and the PWGSC Seni or Direct or of the Division responsible to manage the Consultative Process. The parties will have 3 Business Days to resolve the dispute.
+    c. In the event the representatives of the Parties specified in Article 2.b. above are unable to resolve the dispute, 
 it will be referred to the Participant's President and the PWGSC Director General, who will have 3 Business Days to resolve the dispute.
-  d. In the event the representatives of the Parties specified in Article 2.c. above are unable to resolve the dispute, it will be referred to the Participant's CEO and the PWGSC Assistant Deputy Minister, Acquisitions Branch who will have 10 Business Days to resolve the dispute.
-  e. In the event the representatives of the Parties specified in Article 2.d. above are unable to resolve the dispute, the Contracting Authority will within 5 Business Days render a written decision which will include a detailed description of the dispute and the reasons supporting the Contracting Authority's decision. The Contracting Authority will deliver a signed copy thereof to the Participant.
+    d. In the event the representatives of the Parties specified in Article 2.c. above are unable to resolve the dispute, it will be referred to the Participant's CEO and the PWGSC Assistant Deputy Minister, Acquisitions Branch who will have 10 Business Days to resolve the dispute.
+    e. In the event the representatives of the Parties specified in Article 2.d. above are unable to resolve the dispute, the Contracting Authority will within 5 Business Days render a written decision which will include a detailed description of the dispute and the reasons supporting the Contracting Authority's decision. The Contracting Authority will deliver a signed copy thereof to the Participant.
 
 By signing this document, the individual represents that he/she has full authority to bind the company listed below and that the individual and the company agree to be bound by all the terms and conditions contained herein.
 
@@ -219,12 +219,9 @@ Respondents are requested to clearly identify those portions of their response t
 ### SECTION 2: REQUIREMENT
 
 1. Following the Planned CFP Process outlined above, GC is seeking feedback in the LOI as to:
-
-  a. whether three weeks is enough time to develop a working prototype for the presentation. 
-
-  b. whether three weeks $15,000 is an appropriate amount to develop a working prototype as described above.
-
-  c. whether the description of the working prototype is sufficiently clear to prepare the demonstration? 
+    a. whether three weeks is enough time to develop a working prototype for the presentation. 
+    b. whether three weeks $15,000 is an appropriate amount to develop a working prototype as described above.
+    c. whether the description of the working prototype is sufficiently clear to prepare the demonstration? 
 
 2. In your view, are there problems with what has been outlined in the Letter of Interest?
 
