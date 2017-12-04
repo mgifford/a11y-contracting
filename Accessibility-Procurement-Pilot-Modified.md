@@ -38,6 +38,7 @@ These are the guidelines currently required for GC websites:
     3. Standard on Web Interoperability
     4. Standard on Web Usability
     5. Standard on Optimizing Websites and Applications for Mobile Devices
+    6. Policy on Government Security
 
 Like all digital medium itself, change is inevitable. GC takes inspiration from internationally recognized standards that support an improved user experience for all users. 
 
@@ -370,7 +371,7 @@ The Contractor must execute the test plan, in order to establish a performance b
 The Contractor must correct software defects identified during the baseline testing and update the Solution source code. The Contractor must provide a Defect Debugging Report to Technical Authority documenting the defects, and their corrections.
 
 ##### 4.2.1.4 Standards Compliance testing 
-The Solution must comply with Government of Canada Standards for Web Accessibility and Web Security. Canada will test the Solution for compliance with these standards. The Technical Authority will provide detailed feedback to the Contractor on any issues revealed by compliance testing. The Contractor must resolve the issues in the source code revealed by compliance testing and update the Solution source code. 
+The Solution must comply with Government of Canada Standards for Web Accessibility and Web Security. GC will test the Solution for compliance with these standards. The Technical Authority will provide detailed feedback to the Contractor on any issues revealed by compliance testing. The Contractor must resolve the issues in the source code revealed by compliance testing and update the Solution source code. 
 
 Evidence of user testing, debugging, testing for accessibility and security, and an 
 updated Design and Implementation Plan (if applicable) must be provided to the Technical Authority for approval.
