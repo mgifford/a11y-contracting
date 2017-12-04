@@ -293,7 +293,7 @@ The following illustrative list provides examples of accessibility issues Soluti
 - programmatically generate transcripts of voice audio recordings; 
 - programmatically generate described video, transcripts, closed captioning for video content created in both official languages;
 - programmatically generate animated American Sign Language or Quebec Sign Language from spoken word audio or video; 
-- programmatically assign and display Flesch-Kincaid Reading grade level (or similar) for English content or Scolarius score for French content;
+- programmatically assign and display Flesch-Kincaid (or similar) readability tests to determine approximate grade level for English content or Scolarius score for French content;
 - conform to ATAG 2.0 Part B where editors are encouraged to adopt best practices while generating content, such that it is easier to comply with WCAG 2.0 AA. Where possible also conform to WCAG 2.1 and/or EN 301 549.
 
 ## 4. Scope
