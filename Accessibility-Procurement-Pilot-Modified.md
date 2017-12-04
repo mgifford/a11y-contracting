@@ -31,6 +31,13 @@ These are the guidelines currently required for GC websites:
 - GC Standard on Web Accessibility – A Government of Canada standard for websites and web applications - https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601
 - GC Guidance on Implementing the Standard on Web Accessibility – Assists departments by providing tools, solutions and guidance - https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/guidance-implementing-standard-web-accessibility.html
 - World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 - the international 2008 standard for web accessibility.  Governments around the world have adopted WCAG 2.0 AA as the goal for most web sites. https://www.w3.org/WAI/intro/wcag
+- GC’s Web Experience Toolkit - http://wet-boew.github.io/wet-boew/
+- Other relevant policies to Canada’s Web presence - https://www.tbs-sct.gc.ca/pol/index-eng.aspx
+    1. Directive on the Management of Communications
+    2. Directive on Official Languages for Communications and Services
+    3. Standard on Web Interoperability
+    4. Standard on Web Usability
+    5. Standard on Optimizing Websites and Applications for Mobile Devices
 
 Like all digital medium itself, change is inevitable. GC takes inspiration from internationally recognized standards that support an improved user experience for all users. 
 
@@ -53,12 +60,13 @@ The Challenge for which Solutions will be sought on behalf of TBS is described i
 ## 1. PROCESS
 
 ### General
-a. All communications will be available in French and English and will be provided in an accessible format.
-a. All formal communications and ammendments will be made through the Buy and Sell website - https://buyandsell.gc.ca/
+- All communications will be available in French and English and will be provided in an accessible format.
+- All formal communications and ammendments will be made through the Buy and Sell website - https://buyandsell.gc.ca/
+- Unless specified otherwise, all written communications will be in an electronic and accessible format. Acceptible formats include .txt, .odf, .doc and .epub. If properly tagged for accessibility .pdf will be accepted.
 
 ### LOI Process
   - GC issues a LOI to get express interest in the pilot.
-  - Industry submits letters (3 pages + provided signature page).
+  - Industry submits letters - See Attachment 2 for more detail.
   - Submissions should be sent directly to the Contracting Authority on or before December 12, 2017 at 14h00 EST.
   - GC reserves the right to request additional information for clarification after submission. 
   - No payment will be made for costs incurred in this phase.
@@ -90,10 +98,11 @@ These policies apply:
 
 ## 1. LICENCING
 
-Solutions developed (not pre-existing) for either challenge must be licenced under the MIT Licence. Where Bidders are leveraging existing open source projects, adopting the parent licence of the open source software project is preferred, where the licence is approved by the Open Source Institute (OSI). A list of OSI approved licences is available at - https://opensource.org/licenses/alphabetical
+Solutions developed (not pre-existing) for either challenge must be licenced under the MIT Licence. Where Bidders or Contractors are leveraging existing open source projects, adopting the parent licence of the open source software project is preferred, where the licence is approved by the Open Source Institute (OSI). A list of OSI approved licences is available at - https://opensource.org/licenses/alphabetical
 
 Under any contract resulting from the CFP, the Contractor will be required to deposit the Solution’s source code in a public facing repository on the GitHub platform - https://github.com - under an open source license as specified above.
 
+The Contractor must create and maintain a public repository for the project on GitHub during the period of the Contract. All updates to the Solution source code must be deposited on GitHub, as well as, the final Solution source code. This will enable anyone to subscribe to notifications of changes while also allowing for conversations, issue tracking, and code reviews.
 
 ## 1. CONTRACTING AUTHORITY
 
@@ -181,15 +190,13 @@ ___________________________
 
 ## INDUSTRY ENGAGEMENT QUESTIONS
 
-The questions contained in the Sections below are intended to elicit feedback of interest to GC and provide guidance to industry in preparing written responses. It is not expected that all questions will elicit a response, neither should submissions be constrained by the questions.
+The questions contained in the sections below are intended to elicit feedback of interest to GC and provide guidance to industry in preparing written responses. It is not expected that all questions will elicit a response, neither should submissions be constrained by the questions.
 
 Respondents are encouraged to submit a response to the Industry Engagement Questions in an accessible, unrestricted electronic format (Text, Open Document Format or EPUB are preferabley) by the LOI closing date.
 
 ## 1. RESPONSE FORMAT
 
-The Respondent’s name, company, address, and contact information and the LOI number should be clearly visible in the response.
-
-Identify your Legal Name and Procurement Business Number.
+The Respondent’s name, company, address, and contact information and the LOI number should be clearly visible in the response. It is crucial that the Legal Name and Procurement Business Number (PBN) are clearly included.
 
 The response is to be submitted by e-mail to the Contracting Authority, at the following address : TPSGC.paouvertpardefaut-apopenbydefault.PWGSC@tpsgc-pwgsc.gc.ca 
  
@@ -199,9 +206,7 @@ Only written LOI presentations can be submitted and responses will not be return
 
 Responses may be in English or French, at the preference of the Respondent.
 
-Please keep the length of your response to 3 8.5x11 pages double spaced.
-
-As per Attachment 1, please provide a signed copy of the Rules of Engagement Participation Agreement.
+Please keep the length of your response to 3 8.5x11 pages double spaced, plus the signed copy of the Rules of Engagement Participation Agreement (as per Attachment 1) 
 
 ## 1. RESPONSE PARAMETERS 
 
@@ -249,11 +254,11 @@ Statement of Work for Open by Default Pilot Portal Challenge
 
 ## 1. Introduction
 
-The Government of Canada has outlined commitments to advance openness and transparency through Action Plans on Open Government submitted to the Open Government Partnership since 2012. One of the core mandates expressed in these action plans is to advance openness through the open government website, open.canada.ca. 
+The Government of Canada has outlined commitments to advance openness and transparency through Action Plans on Open Government submitted to the Open Government Partnership since 2012. One of the core mandates expressed in these action plans is to advance openness through the open government website - https://open.canada.ca
 
-The Open Government website was initially launched as a pilot, data.gc.ca, in 2011. The pilot open data portal then expanded to include various information resources and to facilitate engagement on the open government initiative and associated activities. In keeping with Canada’s initial strategy on open government, the Open Government website’s architecture is built around the pillars of open data, open information and open dialogue, and its infrastructure is built on open source solutions: CKAN, Drupal and Solr. As Canada continues to advance the open government initiative and to release a growing number of resources, it has become apparent that the accessibility of content needs to be improved. There is also a desire to do more in terms of engaging with users and visitors through the Open Government website.
+The Open Government website was initially launched as a pilot, data.gc.ca, in 2011. The pilot open data portal then expanded to include various information resources and to facilitate engagement on the open government initiative and associated activities. In keeping with Canada’s initial strategy on open government, the Open Government website’s architecture is built around the pillars of open data, open information and open dialogue, and its infrastructure is built on open source solutions: CKAN, Drupal 7 and Solr. As Canada continues to advance the open government initiative and to release a growing number of resources, it has become apparent that the accessibility of content needs to be improved. There is also a desire to do more in terms of engaging with users and visitors through the Open Government website.
 
-Canada is committed to removing barriers to access for Government information and services. With that in mind, Canada is mandated to ensure that all websites and web applications adhere to the AA level of the Web Content Accessibility Guidelines 2.0, developed by the World Wide Web Consortium. These requirements are more specifically spelled out for application to Canada in the Standard on Web Accessibility. 
+GC is committed to removing barriers to access for Government information and services. With that in mind, GC is mandated to ensure that all websites and web applications adhere to Web Content Accessibility Guidelines (WCAG) 2.0 AA. 
 
 New resources of information are constantly being added to the Open Government website and the future vision is for it to become a hub of data, information and opportunities to participate and learn. Early research indicates that a majority of users are seeking data of one type or another, with a smaller but significant group looking for opportunities to participate or engage with government.
 
@@ -263,31 +268,27 @@ As Canada’s work on open government advances, there are opportunities to impro
 
 ### 2.1 The Open by Default Pilot Portal (http://pilot.open.canada.ca/open-by-default-pilot) 
 
-The Open by Default Pilot Portal, launched in July 2017, is the newest component of the Open Government website. It is an online beta site where various types of non-sensitive federal-level documents in draft format (i.e. working documents) are made publicly available, providing users with insight into what Government of Canada employees are working on (e.g., presentations, speaking notes, infographics, annual reports, etc.). The Open by Default Pilot Portal leverages existing operational systems that are used to power open.canada.ca, including CKAN, Drupal and Solr. It also leverages GCDocs, an internal records management tool. The technical architecture of the Open by Default Pilot Portal, a separate, beta-stage instance within open.canada.ca, mirrors that of the Open Government Portal. All source code for the architecture is available on GitHub for reuse here : https://github.com/open-data. 
+The Open by Default Pilot Portal, launched in July 2017, is the newest component of the Open Government website. It is an online beta site where various types of non-sensitive federal-level documents in draft format (i.e. working documents) are made publicly available, providing users with insight into what Government of Canada employees are working on (e.g., presentations, speaking notes, infographics, annual reports, etc.). The Open by Default Pilot Portal leverages existing operational systems that are used to power open.canada.ca, including CKAN, Drupal 8 and Solr. It also leverages GCDocs, an internal records management tool. The technical architecture of the Open by Default Pilot Portal, a separate, beta-stage instance within open.canada.ca, mirrors that of the Open Government Portal. Instructions to build the environment will be provided as well as all source code for the architecture. Currently all code for this project is available on GitHub - https://github.com/open-data
 
-The Open by Default Portal consolidates draft documents (“Digital Assets”) provided by four pilot departments: Natural Resources Canada, Canadian Heritage, Environment and Climate Change Canada, and the Treasury Board of Canada Secretariat. However, additional partner departments will be on-boarded in the future .The Open by Default Pilot Portal includes Digital Assets that are works in progress which have not necessarily been created or formatted for compliance with web accessibility standards. 
+The Open by Default Portal consolidates draft documents (“Digital Assets”) provided by the pilot departments. Presently they are Natural Resources Canada, Canadian Heritage, Environment and Climate Change Canada, and the Treasury Board of Canada Secretariat. The Open by Default Pilot Portal includes Digital Assets that are works in progress which have not necessarily been created or formatted for compliance with web accessibility standards. 
 
-Currently, the Open by Default Portal contains approximately 550 Digital Assets in common formats such as .doc, .docx, .xls, .xlsx, .ppt, .pptx, .pdf, and .png. The collection contains such Digital Assets as draft policies, internal draft documentation on systems, and presentations. It is expected that future Digital Assets holdings on the portal could be expanded to include audio and video formats. It is also expected that the volume on content could expand to include 100,000s of digital assets over the next few y
-ears, as departments are onboarded.
+Currently, the Open by Default Portal contains approximately 550 Digital Assets in common open formats such as .odf, .csv, .svg, .shp, but also standard Microsoft & Adobe file formats. The collection contains such Digital Assets as draft policies, internal draft documentation on systems, and presentations. It is expected that future Digital Assets holdings on the portal could be expanded to include audio and video formats. It is also expected that the volume on content could expand to include 100,000s of digital assets over the next few years, as departments are onboarded.
 
 ## 3. Challenge 
 
 TBS has a requirement for an open source software solution (“Solution”) (existing or developmental but not proprietary) to enhance and improve the accessibility of both current and future Digital Assets housed on the Open by Default Pilot Portal. Proposed Solutions must also be compatible with the Open Government website’s existing digital infrastructure.
 
-The following illustrative list provides examples of accessibility issues Solutions may address in responding to the challenge. This list is non-exhaustive; Solutions may address any of these accessibility issues or may address accessibility issues not listed below. 
+The following illustrative list provides examples of accessibility issues Solutions may address in responding to the challenge. This list is non-exhaustive. All Solutions should assume bilingual content. These are examples of Solutions that may be addresed in the CFP. Ability of the system to:
 
-- Lack of ability within the system to automatically transform Digital Assets created in both official languages, into Digital Assets which conform to a minimum of WCAG 2.0 AA. Digital assets which additionally conform to WCAG 2.1 and/or EN 301 549 would be preferred. 
-- Lack of ability within the system to programmatically generate conforming alternate versions of Digital Assets available through the Open by Default Pilot Portal in a variety of formats, and in both official languages, such as PDF/UA, EPUB3, and ODF; 
-- Lack of ability within the system to programmatically generate alternate versions of Digital Assets 
-available through the Open by Default Pilot Portal in a variety of braille formats such as .BRF and .BRL in both official languages;
-- Lack of ability within the system to generate and embed within Digital Assets an accessibility compliance report for Digital Assets in both official languages, against at a minimum WGAC 2.0 AA standards, compliance to other web accessibility standards would be preferred; 
-- Lack of ability within the system to programmatically add system generated alt text / descriptive text in both official languages to images; 
-- Lack of ability within the system to programmatically generate transcripts of English and French voice audio recordings ; 
-- Lack of ability within the system to generate animated American Sign Language or Quebec Sign Language from spoken word audio or video; 
-- Lack of ability within the system to programmatically generate described video, transcripts, closed captioning for video content created in both official languages;
-- The absence of the ability for the system to assign and display Flesch-Kincaid Reading grade level for English content or Scolarius score for French content;
-- The absence of the ability for the system to programmatically reduce the reading grade level of the content to a target of grade 8, in accordance with WCAG 2.0 AAA; and,
-- Lack of available document templates that force users to generate documents in a method that complies with, at a minimum WCAG 2.0 AA. Templates which additionally conform to WCAG 2.1 and/or EN 301 549 would be preferred.
+- automatically flag Digital Assets when they fail to meet WCAG 2.0 AA. This system should allow for marking WCAG 2.1 and/or EN 301 549 requirements when they become available. It is understood that the best automated tests presently catch about 25% of WCAG 2.0 AA errors. 
+- ensure Digital Assets available through the Open by Default Pilot Portal should be able to be converted into a in a variety of formats such as EPUB3, and ODF; 
+- provide for all Digital Assets an embed an accessibility compliance report against WGAC 2.0 AA standards as well as other web accessibility standards; 
+- programmatically suggest alternative text for images (.gif, .png, .svg, and .jpg).
+- programmatically generate transcripts of voice audio recordings; 
+- programmatically generate described video, transcripts, closed captioning for video content created in both official languages;
+- programmatically generate animated American Sign Language or Quebec Sign Language from spoken word audio or video; 
+- programmatically assign and display Flesch-Kincaid Reading grade level (or similar) for English content or Scolarius score for French content;
+- conform to ATAG 2.0 Part B where editors are encouraged to adopt best practices while generating content, such that it is easier to comply with WCAG 2.0 AA. Where possible also conform to WCAG 2.1 and/or EN 301 549.
 
 ## 4. Scope
 
@@ -295,63 +296,49 @@ available through the Open by Default Pilot Portal in a variety of braille forma
  
 #### 4.1.1 Finalization of Draft Design and Implementation Plan
 
-Within 10 working days of the Contract being awarded, the Technical Authority will provide any comments electronically that it has regarding the draft design and implementation 
-plan submitted by the Contractor as part of its bid. The Contractor must update its Design and Implementation Plan to reflect Technical Authority's comments and resubmit it electronically to Technical Authority for approval within 5 working days. 
+Within 10 working days of the Contract being awarded, the Technical Authority will provide any comments electronically that it has regarding the draft design and implementation plan submitted by the Contractor as part of its bid. The Contractor must update its Design and Implementation Plan to reflect Technical Authority's comments and resubmit it electronically to Technical Authority for approval within 5 working days. 
 
-The Design and Implementation Plan must specify the delivery dates for all deliverables identified in Phases 2 and 3. Canada’s Open Government Portal team will use a public facing version control repository hosting service - GitHub.com. This will enable anyone to subscribe to notifications of changes while also allowing for conversations, issue tracking, and code reviews.
+The Design and Implementation Plan must specify the delivery dates for all deliverables identified in Phases 2 and 3. 
 
-##### 4.1.1.1 Deliverable(s)
-
-###### 1. Finalized Design and Implementation Plan 
-
-Due date: Within 15 working days of Contract award 
+15 days following the approval by the Technical Authority:
+- the code must be uploaded to the public GitHub repository and ready for the demonstration phase. 
+- the presentation to include a Microsoft PowerPoint (.ppt) or Open Office Impress (.sxi) format and a demonstration of the prototype delivered to the Technical Authority.
 
 #### 4.1.2 Demonstration
 
 The Contractor must demonstrate the basic functionality of Solution including at a minimum an early stage functional prototype (defined as a minimum viable demonstration of capability) to the Technical Authority and representatives of Canada, in person at a location to be determined by the Technical Authority. 
 
-At a minimum the presentation must include: a functionality demonstration of the 
-prototype of the Solution and an overview of the Contractor’s proposed design and implementation plan for Phase 2 and 3. The presentation should also include an overview of the Innovati veness, Scalability, Accessibility and Functionality of the proposed Solution.
+At a minimum the presentation must include: a functionality demonstration of the prototype of the Solution and an overview of the Contractor’s proposed design and implementation plan for Phase 2 and 3. The presentation should also include an overview of the Innovativeness, Scalability, Accessibility and Functionality of the proposed Solution.
 
-The prototype must 
-demonstrate the ability to improve the accessibility of Digital Assets in relation to at least one of the accessibility issues proposed to be addressed in the Contractor’s draft Design and Implementation Plan.
+The prototype must demonstrate the ability to improve the accessibility of Digital Assets in relation to at least one of the accessibility issues proposed to be addressed in the Contractor’s draft Design and Implementation Plan.
 
 An independent panel will observe the presentation and convene to determine whether to move forward with Phases 2 and 3 of the Contract. 
 
-##### 4.1.2.1 Deliverable(s)
-
-###### 1. Presentation to include .ppt format and a demonstration of the prototype delivered to the Technical Authority.
-
-Due date: Within 15 working days of Contract award 
-
-
 #### 4.1.3 Financial Proposal
 
-The Contractor must provide a Financial Proposal for Phases 2 and 3 of the Work in accordance with Annex B, Basis of Payment. The Financial Proposal for Phases 2 and 3 will be subject to negotiation with Canada. Upon Canada’s request, the Contractor must provide Price Support for the Financial Proposal for Phases 2 and 3, which may include; a current published price list indicating the percentage discount available to Canada; or copies of paid invoices for the like quality and quantity of the goods, services or both sold to other customers; or price or rate certifications; or any other supporting documentation as requested by Canada. 
+The Contractor must provide a Financial Proposal for Phases 2 and 3 of the Work in accordance with Annex B, Basis of Payment. The Financial Proposal for Phases 2 and 3 will be subject to negotiation with GC. Upon GC’s request, the Contractor must provide Price Support for the Financial Proposal for Phases 2 and 3, which may include; a current published price list indicating the percentage discount available to Canada; or copies of paid invoices for the like quality and quantity of the goods, services or both sold to other customers; or price or rate certifications; or any other supporting documentation as requested by GC. 
 
 The Financial Proposal for Phases 2 and 3 must include the following information, as applicable, for each element of the Work:
 
-a) Labour: For each individual and (or) labour category to be assigned to the Work, indicate: i) the hourly rate, inclusive of overhead and profit; and ii) the estimated number of hours. 
+  a) Labour: For each individual and (or) labour category to be assigned to the Work, indicate: 
+      i) the hourly rate, inclusive of overhead and profit; and 
+      ii) the estimated number of hours. 
 
-b) Materials and Supplies: Identify each category of materials and supplies required to complete the Work and provide the pricing basis.
+  b) Materials and Supplies: Identify each category of materials and supplies required to complete the Work and provide the pricing basis.
 
-c) Subcontracts: Identify any proposed subcontractor and provide for each one the same price breakdown information as contained in this article. 
+  c) Subcontracts: Identify any proposed subcontractor and provide for each one the same price breakdown information as contained in this article. 
 
-d) Other Direct Charges: Identify any other direct charges anticipated, such as long distance communications and rentals, and provide the pricing basis.
+  d) Other Direct Charges: Identify any other direct charges anticipated, such as long distance communications and rentals, and provide the pricing basis.
 
-e) Profit: Identify proposed profit, if any, and the basis on which it is computed and applied. 
+  e) Profit: Identify proposed profit, if any, and the basis on which it is computed and applied. 
 
-f) Overhead: State the applicable overhead.
+  f) Overhead: State the applicable overhead.
 
-g) Applicable Tax: Identify any Applicable Tax separately.
-
-##### 4.1.3.1 Deliverable(s)
-
-###### 1. Financial Proposal for Phases 2 and 3 of the challenge delivered to the Contracting Authority electronically in .pdf format.
+  g) Applicable Tax: Identify any Applicable Tax separately.
 
 Due date: Within 15 working days of Contract award 
 
-### 4.2 Phase 2 (Optional)
+### 4.2 Phase 2 (Conditional)
 
 #### 4.2.1 Development and Testing
 
@@ -359,21 +346,13 @@ Due date: Within 15 working days of Contract award
 
 The Contractor must provide a Test Plan to the Technical Authority following commencement of Phase 2. The test plan must demonstrably exercise all new functionality of the Solution. The Test Plan must be in the form of a MS Excel spreadsheet that documents each test case, and include, at a minimum:
 
-a. A test case number;
-
-b. Step-by-step instructions for testers to complete each test case;
-
-c. Success criteria for each test case;
-
-d. Description of the functionality the test case addresses;
-
-e. Fields next to each test case for testers to compile testing notes/results;
-
-f. Test data;
-
-g. Exit criteria; and 
-
-h. The test plan must be in a .pdf, .odf, or .docx document for addition to the Canadian Open Government CKAN.
+- A test case number;
+- Step-by-step instructions for testers to complete each test case;
+- Success criteria for each test case;
+- Description of the functionality the test case addresses;
+- Fields next to each test case for testers to compile testing notes/results;
+- Test data; and
+- Exit criteria. 
 
 ##### 4.2.1.2 Baseline testing
 
@@ -392,14 +371,10 @@ updated Design and Implementation Plan (if applicable) must be provided to the T
 ##### 4.2.1.5 Deliverable(s):
 
 1. Test Plan,
-
-2. Defect Debugging Report, 
-
-3. Evidence of baseline testing, debugging, and resolution of compliance testing issues,
-
-4. Updated Design and Implementation Plan (if applicable), 
-
-5. Updated Source Code (if applicable).
+1. Defect Debugging Report, 
+1. Evidence of baseline testing, debugging, and resolution of compliance testing issues,
+1. Updated Design and Implementation Plan (if applicable), 
+1. Updated Source Code (if applicable).
  
 Due date: To be determined in accordance with the Contractor’s Design and Implementation Plan.
 
@@ -409,7 +384,7 @@ Due date: To be determined in accordance with the Contractor’s Design and Impl
 
 The Contractor must perform unit testing and integration testing of the Solution with the Open Government website infrastructure and update the Design and Implementation Plan. The Contractor must perform all unit and integration testing in their own environment.
 
-The Contractor must conduct automated unit tests for all python based software modules. The Contractor must resolve any issues revealed by the automated unit tests and update Solution source code. The Contractor must provide a report electronically in .pdf format to the Technical Authority detailing the results of all automated unit testing.
+The Contractor must conduct automated unit tests for all python based software modules. The Contractor must resolve any issues revealed by the automated unit tests and update Solution source code. The Contractor must provide a report electronically to the Technical Authority detailing the results of all automated unit testing.
 
 ##### 4.2.2.2 Integration Testing
 
@@ -438,11 +413,9 @@ Due Date: To be determined in accordance with the Contractor’s Design and Impl
 #### 4.2.3 Progress Review Meetings 
 The Contractor must be attend weekly progress review meetings by teleconference and provide updates to the Technical Authority on progress towards completion of the deliverables. Progress review meetings shall be scheduled by the Technical Authority, and all pertinent details such as teleconferencing information shall be provided to the Contractor by the Technical Authority not less than 24 hours in advance. The Contractor must respond to inquiries pertaining to the completion of deliverables on an ad hoc basis.
 
-The Contractor must prepare a Record of Discussion for each progress review meeting in .doc, .odf, or .pdf format and provide it to the Technical Authority electronically within 48 hours of the progress review meeting.
+The Contractor must prepare a Record of Discussion for each progress review meeting to the Technical Authority electronically within 48 hours of the progress review meeting.
 
-##### 4.2.3.1 Deliverable(s)
-
-Record of Discussion 
+##### Deliverable - Record of Discussion 
 
 Due Date: within 48 hours of the progress review meeting 
 
@@ -452,7 +425,7 @@ Due Date: within 48 hours of the progress review meeting
 
 The Contractor will provide technical support to Canada, as the Solution is implemented on the production environment. The Contractor must make resources with the knowledge required to implement the Solution on Canada’s production environment available via telephone and email to Canada during the implementation of the Solution.
 
-#### 4.3.1.1 Deliverable(s)
+#### Deliverable(s)
 
 Professional services in the form of technical support to Canada during the implementation of the Solution.
 
@@ -460,11 +433,11 @@ Due Date: To be determined in accordance with the Contractor’s Design and Impl
 
 #### 4.3.2 Software Documentation
 
-The Contractor must prepare all Software Documentation for the Solution and provide it electronically to the Technical Authority in .pdf format.
+The Contractor must prepare all Software Documentation for the Solution and provide it electronically to the Technical Authority.
 
-##### 4.3.2.1 Deliverable(s)
+##### Deliverable(s)
 
-Software Documentation, consisting of, at a minimum, a technical specification for the Solution documenting the system architecture, subsystem design, and required configuration, in .pdf format.
+Software Documentation, consisting of, at a minimum, a technical specification for the Solution documenting the system architecture, subsystem design, and required configuration.
 
 Due Date: To be determined in accordance with the Contractor’s Design and Implementation Plan.
 
@@ -472,11 +445,9 @@ Due Date: To be determined in accordance with the Contractor’s Design and Impl
 
 The Contractor must be attend weekly progress review meetings by teleconference and provide updates to the Technical Authority on progress towards completion of the deliverables. Progress review meetings will be scheduled by the Technical Authority, and all pertinent details such as teleconferencing information will be provided to the Contractor by the Technical Authority not less than 24 hours in advance. The Contractor must respond to inquiries pertaining to the completion of deliverables on an ad hoc basis.
 
-The Contractor will prepare a Record of Discussion for each progress review meeting in .doc, .odf, or .pdf format and provide it to the Technical Authority electronically within 48 hours of the progress review meeting.
+The Contractor will prepare a Record of Discussion for each progress review meeting provide it to the Technical Authority electronically within 48 hours of the progress review meeting.
 
-##### 4.3.3.1 Deliverable(s)
-
-Record of Discussion 
+##### Deliverable - Record of Discussion 
 
 Due Date: within 48 hours of the progress review meeting.
 
@@ -488,54 +459,17 @@ The Solution must be compatible with the Open Government website’s existing di
 
 The Open Government website operates using the following open source tools, in compliance with the listed policies relating to websites for Canada.
 - CKAN (Data Catalogue) – Licensed under the Affero GNU GPL v3.0 License;
-- Solr (Search Engine) 
-- Licensed under the Apache License 2.0;
-- Drupal (Content Management System) - Licensed under the GPL v2 License;
+- Apache Solr (Search Engine) - Licensed under the Apache License 2.0;
+- Drupal 8 (Content Management System) - Licensed under the GPL v2 License;
 - PostgreSQL (Relational Database Management System - Licensed under the Postgresql License.
 
-Government of Canada’s Web Experience Toolkit Relevant Policies to Canada’s Web Presence (available at https://www.tbs-sct.gc.ca/pol/index-eng.aspx): 
-
-1. Directive on the Management of Communications
-
-2. Directive on Official Languages for Communications and Services
-
-3. Standard on Web Accessibility
-
-4. Standard on Web Interoperability
-
-5. Standard on Web Usability
-
-6. Standard on Optimizing Websites and Applications for Mobile Devices
-
-7. Guidance on Implementing the Standard on Web Accessibility
-
 The Open Government website is currently housed on a mix of cloud and on premise infrastructure. Solutions must be compatible with infrastructure hosted on the Microsoft (MS) Azure cloud in the Canada Central or Canada East availability regions.
-
-### 5.2 Open Source Code Repository 
-
-The Contractor must create and maintain a public repository for the project on GitHub during the period of the Contract. All updates to the Solution source code must be deposited on GitHub, as well as, the final Solution source code.
 
 ### 5.3 Design and Implementation Plan
 
 Updates to the Design and Implementation Plan must be approved by the Technical Authority.
 
-### 5.4 Licencing
-
-Solutions developed (not pre-existing) for the challenge must be licenced under the MIT Licence. Where Contractors are leveraging an existing open source projects, adopting the parent licence of the open source software project is acceptable, where the licence is approved by the Open Source Institute. A list of approved licences is available at the following link: https://opensource.org/licenses/alphabetical
-
-## 6. Language of Work
-
-English or French 
-
-## 7. Location of Work
-
-The Work must be performed at the Contractor’s site and Shawinigan, Quebec (Phase 1, article 4.1.2).
-
-## 8. Travel
-
-Travel will be required to attend the presentation event at the expense to Canada (Phase 1, article 4.1.2).
-
-## 9. Review and Acceptance 
+## 1. Review and Acceptance 
 
 ### 9.1 Software Deliverables 
 
@@ -550,7 +484,6 @@ The Contractor must provide drafts all Reports and Documentation deliverables to
 All of the Technical Authority's comments to deliverables must either be incorporated in the succeeding version of the deliverable or the Contractor must demonstrate to the Technical Authority’s satisfaction why such comments should not be incorporated.
 
 If the Contractor requires additional guidance to produce an acceptable deliverable, the Contractor must arrange a meeting with the Technical Authority. 
-
 
 
 Current Infrastructure
@@ -589,6 +522,27 @@ Clearly something like openbydefault.PWGSC@tpsgc-pwgsc.gc.ca & TPSGC.paouvertpar
 ## I am assuming 3 pages, but you might mean 6:
 The  number  of  pages  of  your  response  is  not  limited.  However,  the  expected  length  should  not  exceed  3  
 pages double sided standard letter business format.
+
+## This clearly isn't enough information as there are multiple projects under this organization site. What would be useful here is an exact link to the project that contains both the code and the installation instructions. It would be possible to offer a download for a VirtualBox instance that would include a running example of the entire environment. At the very least though this needs to be corrected: 
+All source code for the architecture is available on GitHub for reuse here : https://github.com/open-data 
+
+## This just isn't possible!
+The absence of the ability for the system to programmatically reduce the reading grade level of the content to a target of grade 8, in accordance with WCAG 2.0 AAA; and,
+
+## I don't think this is what people are calling for in the blind community
+Lack  of  ability  within  the  system  to  programmatically  generate  alternate  versions  of  Digital  Assets  
+available  through  the  Open  by  Default  Pilot  Portal  in  a  variety  of  braille  formats  such  as  .BRF  and  
+.BRL in both official languages;
+
+## It makes no sense for the due date to be within 15 days, considering that this is the time available for clarification with the Technical Authority
+Due date: Within 15 working days of Contract award 
+
+## It seems very strange for a government contract to ask for:
+  e) Profit: Identify proposed profit, if any, and the basis on which it is computed and applied. 
+  
+  f) Overhead: State the applicable overhead.
+
+
 
 Footer
 
