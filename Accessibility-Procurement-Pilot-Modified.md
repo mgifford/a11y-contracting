@@ -83,7 +83,7 @@ The Challenge for which Solutions will be sought on behalf of TBS is described i
 
 The proposed contract will include three 3 Phases. In Phase 1 each Contractor will be required to:
   - demonstrate a functional prototype of their Solution (defined as a minimum viable demonstration of capability).
-  - The presentation to a panel anticipated to be held in Shawinigan, Quebec in mid-March 2018. Reasonable expenses for attending the panel presentation will be covered, see Appendix X for details.
+  - The presentation to a panel anticipated to be held in Shawinigan, Quebec in mid-March 2018. Reasonable expenses for attending the panel presentation will be covered, see Appendix 3 Section 4.1.2 for details.
   - The maximum funding available for Phase 1 of any contract resulting from this CFP is $15,000.00, applicable Taxes excluded.
 
 The maximum funding available for all phases of any contract resulting from this CFP is $320,000 for the Open by Default accessibility challenge, applicable taxes and travel and living expenses are excluded.
@@ -321,6 +321,10 @@ The prototype must demonstrate the ability to improve the accessibility of Digit
 
 An independent panel will observe the presentation and convene to determine whether to move forward with Phases 2 and 3 of the Contract. 
 
+The Contractor will be reimbursed its authorized travel and living expenses reasonably and properly incurred in the performance of the Work, at cost, without any allowance for profit and/or administrative overhead, in accordance with the meal, private vehicle and incidental expenses provided in Appendices B, C and D of the National Joint Council Travel Directive and with the other provisions of the directive referring to "travellers", rather than those referring to "employees".
+
+All travel must have the prior authorization of the Technical Authority.
+
 #### 4.1.3 Financial Proposal
 
 The Contractor must provide a Financial Proposal for Phases 2 and 3 of the Work in accordance with Annex B, Basis of Payment. The Financial Proposal for Phases 2 and 3 will be subject to negotiation with GC. Upon GC’s request, the Contractor must provide Price Support for the Financial Proposal for Phases 2 and 3, which may include; a current published price list indicating the percentage discount available to Canada; or copies of paid invoices for the like quality and quantity of the goods, services or both sold to other customers; or price or rate certifications; or any other supporting documentation as requested by GC. 
@@ -503,63 +507,4 @@ Accessibility Procurement Pilot
 Attachment 3 
 Public Services and Procurement Canada
 LOI # 24062-180181/
-
-
-
-
--------------------
-
-# Not Useful For Procurement
-
-It is anticipated that a CFP in French and English versions will be posted electronically on the Government Electronic Tendering Service (GETS), namely the Buy and Sell website (https://buyandsell.gc.ca/). 
-
-This requirement is subject to Canadian Free Trade Agreement (CFTA), Comprehensive Economic and Trade Agreement (CETA), North American Free Trade Agreement (NAFTA), and the World Trade Organization’s Agreement on Government Procurement (WTO-AGP).
-
-
-The Canadian Content Policy does not apply to this requirement. 
-
-
-
-
-
-# Appendix X
-
-## With respect to Phase 1 of the Procurement Process
-
-The Contractor will be reimbursed its authorized travel and living expenses reasonably and properly incurred in the performance of the Work, at cost, without any allowance for profit and/or administrative overhead, in accordance with the meal, private vehicle and incidental expenses provided in Appendices B, C and D of the National Joint Council Travel Directive and with the other provisions of the directive referring to "travellers", rather than those referring to "employees".
-
-All travel must have the prior authorization of the Technical Authority.
-
-
-# Questionable or inconsistent
-
-## How does this compare with the open source committment of Open Government?
-The Contractor will own Intellectual Property Rights in Foreground Information - https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/4/4007/3#ownership-of-intellectual-property-rights
-
-Clearly something like openbydefault.PWGSC@tpsgc-pwgsc.gc.ca & TPSGC.paouvertpardefaut@tpsgc-pwgsc.gc.ca would be preferable to this silly email TPSGC.paouvertpardefaut-apopenbydefault.PWGSC@tpsgc-pwgsc.gc.ca 
-
-## I am assuming 3 pages, but you might mean 6:
-The  number  of  pages  of  your  response  is  not  limited.  However,  the  expected  length  should  not  exceed  3  
-pages double sided standard letter business format.
-
-## This clearly isn't enough information as there are multiple projects under this organization site. What would be useful here is an exact link to the project that contains both the code and the installation instructions. It would be possible to offer a download for a VirtualBox instance that would include a running example of the entire environment. At the very least though this needs to be corrected: 
-All source code for the architecture is available on GitHub for reuse here : https://github.com/open-data 
-
-## This just isn't possible!
-The absence of the ability for the system to programmatically reduce the reading grade level of the content to a target of grade 8, in accordance with WCAG 2.0 AAA; and,
-
-## I don't think this is what people are calling for in the blind community
-Lack  of  ability  within  the  system  to  programmatically  generate  alternate  versions  of  Digital  Assets  
-available  through  the  Open  by  Default  Pilot  Portal  in  a  variety  of  braille  formats  such  as  .BRF  and  
-.BRL in both official languages;
-
-## It makes no sense for the due date to be within 15 days, considering that this is the time available for clarification with the Technical Authority
-Due date: Within 15 working days of Contract award 
-
-## It seems very strange for a government contract to ask for:
-  e) Profit: Identify proposed profit, if any, and the basis on which it is computed and applied. 
-  
-  f) Overhead: State the applicable overhead.
-
-
 
