@@ -107,11 +107,11 @@ The Contractor must create and maintain a public repository for the project on G
 
 All enquiries and communication with the Government regarding GC’s requirement under this LOI must be directed in writing to the Public Services and Procurement Canada Contracting Authority as detailed below. Any clarification or information received from other Government officials will not be considered as an official response.
 
-Heather Wilson 
-Supply Team Leader
-Public Services and Procurement Canada 
-Telephone: 873-469-4791 
-E-mail: TPSGC.paouvertpardefaut-apopenbydefault.PWGSC@tpsgc-pwgsc.gc.ca
+    Heather Wilson 
+    Supply Team Leader
+    Public Services and Procurement Canada 
+    Telephone: 873-469-4791 
+    E-mail: TPSGC.paouvertpardefaut-apopenbydefault.PWGSC@tpsgc-pwgsc.gc.ca
 
 -------------------
 
@@ -200,7 +200,7 @@ Respondents are encouraged to submit a response to the Industry Engagement Quest
 
 The Respondent’s name, company, address, and contact information and the LOI number should be clearly visible in the response. It is crucial that the Legal Name and Procurement Business Number (PBN) are clearly included.
 
-The response is to be submitted by e-mail to the Contracting Authority, at the following address : TPSGC.paouvertpardefaut-apopenbydefault.PWGSC@tpsgc-pwgsc.gc.ca 
+The response is to be submitted by e-mail to the Contracting Authority.
  
 Only include general marketing material unless it provides specific information relevant to a response. If it is included the  supporting text in the LOI should cross-reference the marketing material. 
 
