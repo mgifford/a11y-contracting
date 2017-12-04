@@ -155,12 +155,16 @@ k. A dispute resolution process to manage impasses throughout this Consultative 
 
 2. Any dispute between the Parties of any nature arising out of or in connection with this Consultative Process must be resolved by the following process:
 
-    a. Any such dispute must first be referred to the Participant's Representative and the PWGSC Manager managing the Consultative Process. The parties will have 3 Business Days in which to resolve the dispute.
-    b. In the event the representatives of the Parties specified in Article 2.a. above are unable to resolve the dispute, it will be referred to the Participant's Project Director and the PWGSC Seni or Direct or of the Division responsible to manage the Consultative Process. The parties will have 3 Business Days to resolve the dispute.
-    c. In the event the representatives of the Parties specified in Article 2.b. above are unable to resolve the dispute, 
+a. Any such dispute must first be referred to the Participant's Representative and the PWGSC Manager managing the Consultative Process. The parties will have 3 Business Days in which to resolve the dispute.
+
+b. In the event the representatives of the Parties specified in Article 2.a. above are unable to resolve the dispute, it will be referred to the Participant's Project Director and the PWGSC Seni or Direct or of the Division responsible to manage the Consultative Process. The parties will have 3 Business Days to resolve the dispute.
+
+c. In the event the representatives of the Parties specified in Article 2.b. above are unable to resolve the dispute, 
 it will be referred to the Participant's President and the PWGSC Director General, who will have 3 Business Days to resolve the dispute.
-    d. In the event the representatives of the Parties specified in Article 2.c. above are unable to resolve the dispute, it will be referred to the Participant's CEO and the PWGSC Assistant Deputy Minister, Acquisitions Branch who will have 10 Business Days to resolve the dispute.
-    e. In the event the representatives of the Parties specified in Article 2.d. above are unable to resolve the dispute, the Contracting Authority will within 5 Business Days render a written decision which will include a detailed description of the dispute and the reasons supporting the Contracting Authority's decision. The Contracting Authority will deliver a signed copy thereof to the Participant.
+
+d. In the event the representatives of the Parties specified in Article 2.c. above are unable to resolve the dispute, it will be referred to the Participant's CEO and the PWGSC Assistant Deputy Minister, Acquisitions Branch who will have 10 Business Days to resolve the dispute.
+
+e. In the event the representatives of the Parties specified in Article 2.d. above are unable to resolve the dispute, the Contracting Authority will within 5 Business Days render a written decision which will include a detailed description of the dispute and the reasons supporting the Contracting Authority's decision. The Contracting Authority will deliver a signed copy thereof to the Participant.
 
 By signing this document, the individual represents that he/she has full authority to bind the company listed below and that the individual and the company agree to be bound by all the terms and conditions contained herein.
 
@@ -219,9 +223,12 @@ Respondents are requested to clearly identify those portions of their response t
 ### SECTION 2: REQUIREMENT
 
 1. Following the Planned CFP Process outlined above, GC is seeking feedback in the LOI as to:
-    a. whether three weeks is enough time to develop a working prototype for the presentation. 
-    b. whether three weeks $15,000 is an appropriate amount to develop a working prototype as described above.
-    c. whether the description of the working prototype is sufficiently clear to prepare the demonstration? 
+
+a. whether three weeks is enough time to develop a working prototype for the presentation. 
+
+b. whether three weeks $15,000 is an appropriate amount to develop a working prototype as described above.
+
+c. whether the description of the working prototype is sufficiently clear to prepare the demonstration? 
 
 2. In your view, are there problems with what has been outlined in the Letter of Interest?
 
@@ -275,7 +282,6 @@ Currently, the Open by Default Portal contains approximately 550 Digital Assets 
 TBS has a requirement for an open source software solution (“Solution”) (existing or developmental but not proprietary) to enhance and improve the accessibility of both current and future Digital Assets housed on the Open by Default Pilot Portal. Proposed Solutions must also be compatible with the Open Government website’s existing digital infrastructure.
 
 The following illustrative list provides examples of accessibility issues Solutions may address in responding to the challenge. This list is non-exhaustive. All Solutions should assume bilingual content. These are examples of Solutions that may be addresed in the CFP. Ability of the system to:
-
 - automatically flag Digital Assets when they fail to meet WCAG 2.0 AA. This system should allow for marking WCAG 2.1 and/or EN 301 549 requirements when they become available. It is understood that the best automated tests presently catch about 25% of WCAG 2.0 AA errors. 
 - ensure Digital Assets available through the Open by Default Pilot Portal should be able to be converted into a in a variety of formats such as EPUB3, and ODF; 
 - provide for all Digital Assets an embed an accessibility compliance report against WGAC 2.0 AA standards as well as other web accessibility standards; 
@@ -343,7 +349,6 @@ Following the evaluation process, GC intends to award a contract to the three to
 ##### 4.2.1.1 Test Plan
 
 The Contractor must provide a Test Plan to the Technical Authority following commencement of Phase 2. The test plan must demonstrably exercise all new functionality of the Solution. The Test Plan must be in the form of a MS Excel spreadsheet that documents each test case, and include, at a minimum:
-
 - A test case number;
 - Step-by-step instructions for testers to complete each test case;
 - Success criteria for each test case;
@@ -395,16 +400,11 @@ In accordance with timelines to be established in the Design and Implementation 
 ##### 4.2.2.3 Deliverable(s):
 
 1. Automated Unit Testing Report,
-
-2. Contractor’s Integrated Testing Results Report,
-
-3. Installation and Testing Instructions,
-
-4. Evidence of unit testing and integration testing;
-
-5. Updated Design and Implementation Plan (if applicable),
-
-6. Updated source code (if applicable)
+1. Contractor’s Integrated Testing Results Report,
+1. Installation and Testing Instructions,
+1. Evidence of unit testing and integration testing;
+1. Updated Design and Implementation Plan (if applicable),
+1. Updated source code (if applicable)
 
 Due Date: To be determined in accordance with the Contractor’s Design and Implementation Plan.
 
