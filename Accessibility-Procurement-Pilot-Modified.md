@@ -11,7 +11,7 @@ TREASURY BOARD OF CANADA SECRETARIAT
 
 The purpose of this Letter of Interest (LOI) is to notify industry of GC’s intention to:
 - issue a Call for Proposals (CFP) in relation to the Treasury Board of Canada Secretariat’s Open by Default Pilot Portal; 
-- to provide advance notice of the challenges (see section 3.1 for details of both challenges) for which Canada intends to seek proposals; and 
+- to provide advance notice of the challenges for which Canada intends to seek proposals; and 
 - to provide industry the opportunity to give written feedback on the requirement and procurement strategy. 
 
 Canada is looking to partner more closely with leading innovators in Canada and abroad to help address accessibility issues specifically relating to documents on the Open by Default Pilot Portal, which is housed on the open government website, Open.canada.ca (“Open Government website”).
@@ -51,6 +51,7 @@ Where possible, the project should take into consideration the best practices ou
 ## 1. REQUIREMENT
 
 - Any Solution proposed must be open source software (OSS) solution.
+- Unless specified otherwise, all written communications will be in an electronic and accessible format. Acceptible formats include .txt, .odf, .doc and .epub. If properly tagged for accessibility .pdf will be accepted.
 
 
 ### 3.1 TBS - OPEN BY DEFAULT PILOT PORTAL (CHALLENGE 1)
@@ -62,7 +63,6 @@ The Challenge for which Solutions will be sought on behalf of TBS is described i
 ### General
 - All communications will be available in French and English and will be provided in an accessible format.
 - All formal communications and ammendments will be made through the Buy and Sell website - https://buyandsell.gc.ca/
-- Unless specified otherwise, all written communications will be in an electronic and accessible format. Acceptible formats include .txt, .odf, .doc and .epub. If properly tagged for accessibility .pdf will be accepted.
 
 ### LOI Process
   - GC issues a LOI to get express interest in the pilot.
@@ -78,8 +78,7 @@ The Challenge for which Solutions will be sought on behalf of TBS is described i
   - GC issues CFP with input received from Industry.
   - CFP will include assessment criteria that are both mandatory and point-rated. 
   - Proposals which meet all mandatory criteria and the minimum point-rated criteria score will be placed in a pool of pre-qualified proposals, provided that the total evaluated price does not exceed the budget available for the requirements. 
-  - Three weeks have been allotted between when the Contractors are invited to present and the date of presentation. At this time, the presentation is expected to include a demonstration of a working prototype of the proposed Solution (i.e., a preliminary version of the Solution with basic functionality).
-  - Following the evaluation process, GC intends to award a contract to the three top ranked bidders from the pool of pre-qualified proposals. 
+  - More details of the process are defined in Appendix 3.
 
 The proposed contract will include three 3 Phases. In Phase 1 each Contractor will be required to:
   - demonstrate a functional prototype of their Solution (defined as a minimum viable demonstration of capability).
@@ -264,7 +263,7 @@ New resources of information are constantly being added to the Open Government w
 
 As Canada’s work on open government advances, there are opportunities to improve the user experience of its online tools, including improving access to digital publications and draft documents made available by the Government of Canada.
 
-## 2. Background
+## 1. Background
 
 ### 2.1 The Open by Default Pilot Portal (http://pilot.open.canada.ca/open-by-default-pilot) 
 
@@ -274,7 +273,7 @@ The Open by Default Portal consolidates draft documents (“Digital Assets”) p
 
 Currently, the Open by Default Portal contains approximately 550 Digital Assets in common open formats such as .odf, .csv, .svg, .shp, but also standard Microsoft & Adobe file formats. The collection contains such Digital Assets as draft policies, internal draft documentation on systems, and presentations. It is expected that future Digital Assets holdings on the portal could be expanded to include audio and video formats. It is also expected that the volume on content could expand to include 100,000s of digital assets over the next few years, as departments are onboarded.
 
-## 3. Challenge 
+## 1. Challenge 
 
 TBS has a requirement for an open source software solution (“Solution”) (existing or developmental but not proprietary) to enhance and improve the accessibility of both current and future Digital Assets housed on the Open by Default Pilot Portal. Proposed Solutions must also be compatible with the Open Government website’s existing digital infrastructure.
 
@@ -290,7 +289,7 @@ The following illustrative list provides examples of accessibility issues Soluti
 - programmatically assign and display Flesch-Kincaid Reading grade level (or similar) for English content or Scolarius score for French content;
 - conform to ATAG 2.0 Part B where editors are encouraged to adopt best practices while generating content, such that it is easier to comply with WCAG 2.0 AA. Where possible also conform to WCAG 2.1 and/or EN 301 549.
 
-## 4. Scope
+## 1. Scope
 
 ### 4.1 Phase 1
  
@@ -300,7 +299,7 @@ Within 10 working days of the Contract being awarded, the Technical Authority wi
 
 The Design and Implementation Plan must specify the delivery dates for all deliverables identified in Phases 2 and 3. 
 
-15 days following the approval by the Technical Authority:
+There will be at least 15 working days following the approval by the Technical Authority before the Contractor may be required to present. Contractors who are invited to present are expected to include a demonstration of a working prototype of the proposed Solution (i.e., a preliminary version of the Solution with basic functionality). 2 days prior to the presentation:
 - the code must be uploaded to the public GitHub repository and ready for the demonstration phase. 
 - the presentation to include a Microsoft PowerPoint (.ppt) or Open Office Impress (.sxi) format and a demonstration of the prototype delivered to the Technical Authority.
 
@@ -339,6 +338,8 @@ The Financial Proposal for Phases 2 and 3 must include the following information
 Due date: Within 15 working days of Contract award 
 
 ### 4.2 Phase 2 (Conditional)
+
+Following the evaluation process, GC intends to award a contract to the three top ranked bidders from the pool of pre-qualified proposals. 
 
 #### 4.2.1 Development and Testing
 
@@ -451,7 +452,7 @@ The Contractor will prepare a Record of Discussion for each progress review meet
 
 Due Date: within 48 hours of the progress review meeting.
 
-## 5. Constraints and Operational Environment
+## 1. Constraints and Operational Environment
 
 The Solution must be compatible with the Open Government website’s existing digital infrastructure. See Appendix 1 to Attachment 3 attached. 
 
