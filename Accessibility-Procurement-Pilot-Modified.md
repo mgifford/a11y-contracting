@@ -64,11 +64,13 @@ a. All formal communications and ammendments will be made through the Buy and Se
   - No payment will be made for costs incurred in this phase.
   - GC is under no obligation enter into any agreement or to accept any suggestions from industry.
   - This industry consultation process is not a solicitation and a contract will not result from this request.
+  - More information is availabe in Attachment 2 - Industry Engagement Questions
 
-### Planned CFP PROCESS 
-  - GC issues CFP based on feedback received from Industry.
+### Planned CFP Process 
+  - GC issues CFP with input received from Industry.
   - CFP will include assessment criteria that are both mandatory and point-rated. 
   - Proposals which meet all mandatory criteria and the minimum point-rated criteria score will be placed in a pool of pre-qualified proposals, provided that the total evaluated price does not exceed the budget available for the requirements. 
+  - Three weeks have been allotted between when the Contractors are invited to present and the date of presentation. At this time, the presentation is expected to include a demonstration of a working prototype of the proposed Solution (i.e., a preliminary version of the Solution with basic functionality).
   - Following the evaluation process, GC intends to award a contract to the three top ranked bidders from the pool of pre-qualified proposals. 
 
 The proposed contract will include three 3 Phases. In Phase 1 each Contractor will be required to:
@@ -144,16 +146,16 @@ k. A dispute resolution process to manage impasses throughout this Consultative 
 
 2. Any dispute between the Parties of any nature arising out of or in connection with this Consultative Process must be resolved by the following process:
 
-a. Any such dispute must first be referred to the Participant's Representative and the PWGSC Manager managing the Consultative Process. The parties will have 3 Business Days in which to resolve the dispute.
+  a. Any such dispute must first be referred to the Participant's Representative and the PWGSC Manager managing the Consultative Process. The parties will have 3 Business Days in which to resolve the dispute.
 
-b. In the event the representatives of the Parties specified in Article 2.a. above are unable to resolve the dispute, it will be referred to the Participant's Project Director and the PWGSC Seni or Direct or of the Division responsible to manage the Consultative Process. The parties will have 3 Business Days to resolve the dispute.
+  b. In the event the representatives of the Parties specified in Article 2.a. above are unable to resolve the dispute, it will be referred to the Participant's Project Director and the PWGSC Seni or Direct or of the Division responsible to manage the Consultative Process. The parties will have 3 Business Days to resolve the dispute.
 
-c. In the event the representatives of the Parties specified in Article 2.b. above are unable to resolve the dispute, 
+  c. In the event the representatives of the Parties specified in Article 2.b. above are unable to resolve the dispute, 
 it will be referred to the Participant's President and the PWGSC Director General, who will have 3 Business Days to resolve the dispute.
 
-d. In the event the representatives of the Parties specified in Article 2.c. above are unable to resolve the dispute, it will be referred to the Participant's CEO and the PWGSC Assistant Deputy Minister, Acquisitions Branch who will have 10 Business Days to resolve the dispute.
+  d. In the event the representatives of the Parties specified in Article 2.c. above are unable to resolve the dispute, it will be referred to the Participant's CEO and the PWGSC Assistant Deputy Minister, Acquisitions Branch who will have 10 Business Days to resolve the dispute.
 
-e. In the event the representatives of the Parties specified in Article 2.d. above are unable to resolve the dispute, the Contracting Authority will within 5 Business Days render a written decision which will include a detailed description of the dispute and the reasons supporting the Contracting Authority's decision. The Contracting Authority will deliver a signed copy thereof to the Participant.
+  e. In the event the representatives of the Parties specified in Article 2.d. above are unable to resolve the dispute, the Contracting Authority will within 5 Business Days render a written decision which will include a detailed description of the dispute and the reasons supporting the Contracting Authority's decision. The Contracting Authority will deliver a signed copy thereof to the Participant.
 
 By signing this document, the individual represents that he/she has full authority to bind the company listed below and that the individual and the company agree to be bound by all the terms and conditions contained herein.
 
@@ -179,57 +181,55 @@ ___________________________
 
 ## INDUSTRY ENGAGEMENT QUESTIONS
 
-The questions contained in the Sections below are intended to elicit feedback of interest to Canada and provide guidance to industry in preparing written responses. It is not expected that all questions will elicit a response, neither should submissions be constrained by the questions.
+The questions contained in the Sections below are intended to elicit feedback of interest to GC and provide guidance to industry in preparing written responses. It is not expected that all questions will elicit a response, neither should submissions be constrained by the questions.
 
-Respondents are encouraged to submit a response to the Industry Engagement Questions in electronic format (MS Word or Adobe PDF preferable as long as copy/paste or printing of text functions are not restricted in any way) by the LOI closing date.
+Respondents are encouraged to submit a response to the Industry Engagement Questions in an accessible, unrestricted electronic format (Text, Open Document Format or EPUB are preferabley) by the LOI closing date.
 
 ## 1. RESPONSE FORMAT
 
-The Respondent’s name, company, address, and contact information and the LOI number should be clearly visible in the response. The response is to be submitted by e-mail to the Contracting Authority, at the following address : TPSGC.paouvertpardefaut-apopenbydefault.PWGSC@tpsgc-pwgsc.gc.ca.
+The Respondent’s name, company, address, and contact information and the LOI number should be clearly visible in the response.
+
+Identify your Legal Name and Procurement Business Number.
+
+The response is to be submitted by e-mail to the Contracting Authority, at the following address : TPSGC.paouvertpardefaut-apopenbydefault.PWGSC@tpsgc-pwgsc.gc.ca 
  
-The inclusion of general marketing material is discouraged unless used to provide specific information relevant to a response. In this instance, it is requested that supporting text cross-reference the marketing material to the appropriate area of the LOI. 
+Only include general marketing material unless it provides specific information relevant to a response. If it is included the  supporting text in the LOI should cross-reference the marketing material. 
 
-Oral presentations will not be entertained.
-
-Responses will not be returned.
-
-The number of pages of your response is not limited. However, the expected length should not exceed 3 pages double sided standard letter business format.
-
-## 2. LANGUAGE OF RESPONSE 
+Only written LOI presentations can be submitted and responses will not be returned.
 
 Responses may be in English or French, at the preference of the Respondent.
 
-## 3. RESPONSE PARAMETERS 
+Please keep the length of your response to 3 8.5x11 pages double spaced.
+
+As per Attachment 1, please provide a signed copy of the Rules of Engagement Participation Agreement.
+
+## 1. RESPONSE PARAMETERS 
 
 Respondents are reminded that this is an LOI and not a CFP and, in that regard, Respondents should feel free to provide their comments and concerns with their responses.
 
-Canada reserves the right to seek clarifications from a Respondent for any information provided in response to this LOI, either by telephone, in writing or in person.
+GC reserves the right to seek clarifications from a Respondent for any information provided in response to this LOI, either by telephone, in writing or in person.
 
-## 4. CONFIDENTIALITY
+## 1. CONFIDENTIALITY
 
 Respondents are requested to clearly identify those portions of their response that are company confidential or proprietary in nature. The confidentiality of each Respondent’s response will be maintained. Items that are identified as proprietary will be treated as such except where Canada determines that the enquiry is not of a proprietary nature. Canada may edit the questions or may request that the respondent do so, so that the proprietary nature of the question is eliminated, and the enquiry can be answered with copies to all interested parties.
 
-### SECTION 1: ADM INISTRATIVE REQUIREM ENT SUMMARY 
-
-1. Identify your Legal Name and Procurement Business Number.
-2. As per Attachment 1, please provide a signed copy of the Rules of Engagement Participation Agreement.
-
 ### SECTION 2: REQUIREMENT
 
-1. Currently, three weeks have been allotted between when the c ont rac t ors are invited to present and the date of presentation. At this time, the presentation is expected to include a demonstration of a working prototype of the proposed Solution (i.e., a preliminary version of the Solution with basic functionality).
+1. Following the Planned CFP Process outlined above, GC is seeking feedback in the LOI as to:
 
-a. We are seeking feedback from potential bidders as to whether three weeks is enough time to develop a working prototype for the presentation. 
+  a. whether three weeks is enough time to develop a working prototype for the presentation. 
 
-b. We are seeking feedback from potential bidders as to whether three weeks $15,000 is an appropriate amount to develop a working prototype as described above.
+  b. whether three weeks $15,000 is an appropriate amount to develop a working prototype as described above.
 
-c. We are seeking feedback from potential bidders as to whether the description of the working prototype is sufficiently clear to prepare the demonstration? 
+  c. whether the description of the working prototype is sufficiently clear to prepare the demonstration? 
 
-2. In your view, are the challenges presented in the Letter of Interest technically feasible?
+2. In your view, are there problems with what has been outlined in the Letter of Interest?
+
+3. The Statement of Work in Attachment 3 provides a number of examples. We want to know if you consider them technically feasible?
 
 3. Do you have concerns with any of the proposed deliverables in either of the Statements of Work?
 
-4. Please provide any additional feedback that you have.
-
+4. Please provide any additional feedback that you think will help increase the impact of this LOI.
 
 
 Common Footer: 
@@ -584,6 +584,11 @@ All travel must have the prior authorization of the Technical Authority.
 ## How does this compare with the open source committment of Open Government?
 The Contractor will own Intellectual Property Rights in Foreground Information - https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/4/4007/3#ownership-of-intellectual-property-rights
 
+Clearly something like openbydefault.PWGSC@tpsgc-pwgsc.gc.ca & TPSGC.paouvertpardefaut@tpsgc-pwgsc.gc.ca would be preferable to this silly email TPSGC.paouvertpardefaut-apopenbydefault.PWGSC@tpsgc-pwgsc.gc.ca 
+
+## I am assuming 3 pages, but you might mean 6:
+The  number  of  pages  of  your  response  is  not  limited.  However,  the  expected  length  should  not  exceed  3  
+pages double sided standard letter business format.
 
 Footer
 
