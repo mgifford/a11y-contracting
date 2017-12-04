@@ -51,8 +51,8 @@ Where possible, the project should take into consideration the best practices ou
 ## 3. REQUIREMENT
 
 - Any Solution proposed must be open source software (OSS) solution.
-- Unless specified otherwise, all written communications will be in an electronic and accessible format. Acceptible formats include .txt, .odf, .doc and .epub. If properly tagged for accessibility .pdf will be accepted.
-
+- Unless specified otherwise, all written communications will be in an electronic and accessible format. Acceptible formats include .txt, .odf, .doc and .epub. If properly tagged for accessibility .pdf will be accepted. 
+- Responses must be in either English or French, at the preference of the Respondent.
 
 ### 3.1 TBS - OPEN BY DEFAULT PILOT PORTAL (CHALLENGE 1)
 
@@ -61,7 +61,7 @@ The Challenge for which Solutions will be sought on behalf of TBS is described i
 ## 4. PROCESS
 
 ### General
-- All communications will be available in French and English and will be provided in an accessible format.
+- All communications will be available in French and English and will be provided in an accessible format. 
 - All formal communications and ammendments will be made through the Buy and Sell website - https://buyandsell.gc.ca/
 
 ### LOI Process
@@ -212,9 +212,7 @@ Only include general marketing material unless it provides specific information 
 
 Only written LOI presentations can be submitted and responses will not be returned.
 
-Responses may be in English or French, at the preference of the Respondent.
-
-Please keep the length of your response to 3 8.5x11 pages double spaced, plus the signed copy of the Rules of Engagement Participation Agreement (as per Attachment 1) 
+Please keep the length of your response to 3 - 8.5x11 pages, plus the signed copy of the Rules of Engagement Participation Agreement (as per Attachment 1). These can be provided as a PDF file to allow for analog signatures.  
 
 ## 2. RESPONSE PARAMETERS 
 
