@@ -245,6 +245,8 @@ c. the description of the working prototype is sufficiently clear to prepare the
 
 4. Please provide any additional feedback that you think will help increase the impact of this LOI.
 
+5. Tell us if you are potentially interested in bidding on the CFP when it is released. 
+
 
 Common Footer: 
 
