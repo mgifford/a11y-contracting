@@ -2,10 +2,13 @@ Original from https://github.com/mgifford/a11y-contracting/blob/master/Accessibi
 
 # Accessibility Procurement Pilot
 
+<p align="center">
 LETTER OF INTEREST
-ACCESSIBILITY PROCUREMENT PILOT ON BEHALF OF
-TREASURY BOARD OF CANADA SECRETARIAT
 
+ACCESSIBILITY PROCUREMENT PILOT ON BEHALF OF
+
+TREASURY BOARD OF CANADA SECRETARIAT
+</p>
 
 ## 1. PURPOSE 
 
