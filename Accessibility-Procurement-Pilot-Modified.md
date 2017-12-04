@@ -395,7 +395,7 @@ The Contractor must conduct automated unit tests for all python based software m
 
 ##### 4.2.2.2 Integration Testing
 
-The Contractor must perform integration testing on its own system, resolve any issues revealed through integration testing and update the Solution source code. Canada will provide the Contractor with a downloadable virtualbox image of the Open by Default Portal configuration allowing the Contractor to configure their environment for integration testing. 
+The Contractor must perform integration testing on its own system, resolve any issues revealed through integration testing and update the Solution source code. GC will provide the Contractor with a free image of Oracle's VirtualBox with the Open by Default Portal configuration allowing the Contractor to configure their environment for integration testing. 
 
 As a final test the Contractor must provide instructions and the updated source code for Canada to install and test the code on an open.canada.ca development environment. The Contractor must provide a report to the Technical Authority detailing the results of their internal integration testing and the instructions for Canada to install and test the source code in the development environment. 
 
