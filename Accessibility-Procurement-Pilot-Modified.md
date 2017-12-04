@@ -92,6 +92,8 @@ The maximum funding available for all phases of any contract resulting from this
 
 All Bidders responding to the resulting CFP must be in possession of a Procurement Business Number (PBN) which can be obtained through the Supplier Registration Information System - https://srisupplier.contractscanada.gc.ca
 
+All responses to CFPs require that the Legal Name of the business and PBN are clearly included.
+
 These policies apply:
 - The Code of Conduct for Procurement and Public Services - https://www.tpsgc-pwgsc.gc.ca/apropos-about/code-cond-eng.html
 - Procurement Canada’s Integrity Provisions - https://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-eng.html
@@ -205,7 +207,7 @@ Respondents are encouraged to submit a response to the Industry Engagement Quest
 
 ## 1. RESPONSE FORMAT
 
-The Respondent’s name, company, address, and contact information and the LOI number should be clearly visible in the response. It is crucial that the Legal Name and Procurement Business Number (PBN) are clearly included.
+The Respondent’s name, company, address, and contact information and the LOI number should be clearly visible in the response. 
 
 The response is to be submitted by e-mail to the Contracting Authority.
  
