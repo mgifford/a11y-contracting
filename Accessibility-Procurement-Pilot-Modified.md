@@ -103,6 +103,12 @@ Under any contract resulting from the CFP, the Contractor will be required to de
 
 The Contractor must create and maintain a public repository for the project on GitHub during the period of the Contract. All updates to the Solution source code must be deposited on GitHub, as well as, the final Solution source code. This will enable anyone to subscribe to notifications of changes while also allowing for conversations, issue tracking, and code reviews.
 
+Should accessibility issues be found "up-stream" in libaries used by the project, efforts should be made to ensure that:
+- a search is done to confirm that the community knows about the problem
+- patches supplied by the community are tested, if they resolve the pattern, then this should be added to the issue queue
+- if no patch is available, but one is generated on behalf of the contract, that should be submitted to the parent project
+- all of this should be documented for the GC
+
 ## 7. CONTRACTING AUTHORITY
 
 All enquiries and communication with the Government regarding GC’s requirement under this LOI must be directed in writing to the Public Services and Procurement Canada Contracting Authority as detailed below. Any clarification or information received from other Government officials will not be considered as an official response.
@@ -222,13 +228,13 @@ Respondents are requested to clearly identify those portions of their response t
 
 ### SECTION 2: REQUIREMENT
 
-1. Following the Planned CFP Process outlined above, GC is seeking feedback in the LOI as to:
+1. Following the Planned CFP Process outlined above, GC is seeking feedback in the LOI as to whether:
 
-a. whether three weeks is enough time to develop a working prototype for the presentation. 
+a. three weeks is enough time to develop a working prototype for the presentation. 
 
-b. whether three weeks $15,000 is an appropriate amount to develop a working prototype as described above.
+b. $15,000 is an appropriate amount to develop a working prototype as described above.
 
-c. whether the description of the working prototype is sufficiently clear to prepare the demonstration? 
+c. the description of the working prototype is sufficiently clear to prepare the demonstration? 
 
 2. In your view, are there problems with what has been outlined in the Letter of Interest?
 
