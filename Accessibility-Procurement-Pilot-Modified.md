@@ -16,7 +16,7 @@ The purpose of this Letter of Interest (LOI) is to notify industry of GC’s int
 
 Canada is looking to partner more closely with leading innovators in Canada and abroad to help address accessibility issues specifically relating to documents on the Open by Default Pilot Portal, which is housed on the open government website, Open.canada.ca (“Open Government website”).
 
-## 1. BACKGROUND 
+## 2. BACKGROUND 
 
 The Government of Canada (“GC”) is committed to advancing openness and transparency. Governments today face barriers to being completely open to all Canadians. About 14% of Canadians report having a disability that limits day-to-day activities. With an aging population, this percentage will likely increase. Many Canadians also live with invisible disabilities. Others may not wish to report having one. Canada faces a clear imperative to be inclusive. For a multitude of reasons we must work to remove barriers to persons with disabilities in this country.
 
@@ -48,7 +48,7 @@ Where possible, the project should take into consideration the best practices ou
 - European Union EN 301 549 – A European Union initiative for public procurement for improving accessibility of information and communications technology (ICT) products and services. Specifies the functional accessibility requirements applicable to ICT products and services. Each accessibility requirement includes a description of the test procedures and evaluation methodology - http://mandate376.standards.eu/standard
 
 
-## 1. REQUIREMENT
+## 3. REQUIREMENT
 
 - Any Solution proposed must be open source software (OSS) solution.
 - Unless specified otherwise, all written communications will be in an electronic and accessible format. Acceptible formats include .txt, .odf, .doc and .epub. If properly tagged for accessibility .pdf will be accepted.
@@ -58,7 +58,7 @@ Where possible, the project should take into consideration the best practices ou
 
 The Challenge for which Solutions will be sought on behalf of TBS is described in Attachment 3, Statement of Work for Open by Default Pilot Portal Challenge. Please note Attachment 3 is a draft document and is subject to change.
 
-## 1. PROCESS
+## 4. PROCESS
 
 ### General
 - All communications will be available in French and English and will be provided in an accessible format.
@@ -87,7 +87,7 @@ The proposed contract will include three 3 Phases. In Phase 1 each Contractor wi
 
 The maximum funding available for all phases of any contract resulting from this CFP is $320,000 for the Open by Default accessibility challenge, applicable taxes and travel and living expenses are excluded.
 
-## 1. GOVERNMENT OF CANADA APPLICABLE POLICIES
+## 5. GOVERNMENT OF CANADA APPLICABLE POLICIES
 
 All Bidders responding to the resulting CFP must be in possession of a Procurement Business Number (PBN) which can be obtained through the Supplier Registration Information System - https://srisupplier.contractscanada.gc.ca
 
@@ -95,7 +95,7 @@ These policies apply:
 - The Code of Conduct for Procurement and Public Services - https://www.tpsgc-pwgsc.gc.ca/apropos-about/code-cond-eng.html
 - Procurement Canada’s Integrity Provisions - https://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-eng.html
 
-## 1. LICENCING
+## 6. LICENCING
 
 Solutions developed (not pre-existing) for either challenge must be licenced under the MIT Licence. Where Bidders or Contractors are leveraging existing open source projects, adopting the parent licence of the open source software project is preferred, where the licence is approved by the Open Source Institute (OSI). A list of OSI approved licences is available at - https://opensource.org/licenses/alphabetical
 
@@ -103,7 +103,7 @@ Under any contract resulting from the CFP, the Contractor will be required to de
 
 The Contractor must create and maintain a public repository for the project on GitHub during the period of the Contract. All updates to the Solution source code must be deposited on GitHub, as well as, the final Solution source code. This will enable anyone to subscribe to notifications of changes while also allowing for conversations, issue tracking, and code reviews.
 
-## 1. CONTRACTING AUTHORITY
+## 7. CONTRACTING AUTHORITY
 
 All enquiries and communication with the Government regarding GC’s requirement under this LOI must be directed in writing to the Public Services and Procurement Canada Contracting Authority as detailed below. Any clarification or information received from other Government officials will not be considered as an official response.
 
@@ -113,6 +113,7 @@ Public Services and Procurement Canada
 Telephone: 873-469-4791 
 E-mail: TPSGC.paouvertpardefaut-apopenbydefault.PWGSC@tpsgc-pwgsc.gc.ca
 
+-------------------
 
 # ATTACHMENT 1
 
@@ -185,6 +186,8 @@ Date:
 ___________________________ 
 
 
+
+
 # ATTACHMENT 2
 
 ## INDUSTRY ENGAGEMENT QUESTIONS
@@ -207,13 +210,13 @@ Responses may be in English or French, at the preference of the Respondent.
 
 Please keep the length of your response to 3 8.5x11 pages double spaced, plus the signed copy of the Rules of Engagement Participation Agreement (as per Attachment 1) 
 
-## 1. RESPONSE PARAMETERS 
+## 2. RESPONSE PARAMETERS 
 
 Respondents are reminded that this is an LOI and not a CFP and, in that regard, Respondents should feel free to provide their comments and concerns with their responses.
 
 GC reserves the right to seek clarifications from a Respondent for any information provided in response to this LOI, either by telephone, in writing or in person.
 
-## 1. CONFIDENTIALITY
+## 3. CONFIDENTIALITY
 
 Respondents are requested to clearly identify those portions of their response that are company confidential or proprietary in nature. The confidentiality of each Respondent’s response will be maintained. Items that are identified as proprietary will be treated as such except where Canada determines that the enquiry is not of a proprietary nature. Canada may edit the questions or may request that the respondent do so, so that the proprietary nature of the question is eliminated, and the enquiry can be answered with copies to all interested parties.
 
@@ -245,6 +248,7 @@ LOI # 24062-180181/A
 
 
 
+-------------------
 
 
 # Attachment 3 
@@ -263,7 +267,7 @@ New resources of information are constantly being added to the Open Government w
 
 As Canada’s work on open government advances, there are opportunities to improve the user experience of its online tools, including improving access to digital publications and draft documents made available by the Government of Canada.
 
-## 1. Background
+## 2. Background
 
 ### 2.1 The Open by Default Pilot Portal (http://pilot.open.canada.ca/open-by-default-pilot) 
 
@@ -273,7 +277,7 @@ The Open by Default Portal consolidates draft documents (“Digital Assets”) p
 
 Currently, the Open by Default Portal contains approximately 550 Digital Assets in common open formats such as .odf, .csv, .svg, .shp, but also standard Microsoft & Adobe file formats. The collection contains such Digital Assets as draft policies, internal draft documentation on systems, and presentations. It is expected that future Digital Assets holdings on the portal could be expanded to include audio and video formats. It is also expected that the volume on content could expand to include 100,000s of digital assets over the next few years, as departments are onboarded.
 
-## 1. Challenge 
+## 3. Challenge 
 
 TBS has a requirement for an open source software solution (“Solution”) (existing or developmental but not proprietary) to enhance and improve the accessibility of both current and future Digital Assets housed on the Open by Default Pilot Portal. Proposed Solutions must also be compatible with the Open Government website’s existing digital infrastructure.
 
@@ -289,7 +293,7 @@ The following illustrative list provides examples of accessibility issues Soluti
 - programmatically assign and display Flesch-Kincaid Reading grade level (or similar) for English content or Scolarius score for French content;
 - conform to ATAG 2.0 Part B where editors are encouraged to adopt best practices while generating content, such that it is easier to comply with WCAG 2.0 AA. Where possible also conform to WCAG 2.1 and/or EN 301 549.
 
-## 1. Scope
+## 4. Scope
 
 ### 4.1 Phase 1
  
@@ -452,7 +456,7 @@ The Contractor will prepare a Record of Discussion for each progress review meet
 
 Due Date: within 48 hours of the progress review meeting.
 
-## 1. Constraints and Operational Environment
+## 5. Constraints and Operational Environment
 
 The Solution must be compatible with the Open Government website’s existing digital infrastructure. See Appendix 1 to Attachment 3 attached. 
 
@@ -470,13 +474,13 @@ The Open Government website is currently housed on a mix of cloud and on premise
 
 Updates to the Design and Implementation Plan must be approved by the Technical Authority.
 
-## 1. Review and Acceptance 
+## 6. Review and Acceptance 
 
-### 9.1 Software Deliverables 
+### 6.1 Software Deliverables 
 
 Final acceptance of the software Solution will occur when all discrepancies, errors or other deficiencies identified in writing by the Technical Authority have been resolved, either through documentation updates, program correction or other methods approved by the Technical Authority. 
 
-### 9.2 Reports and Documentation Deliverables
+### 6.2 Reports and Documentation Deliverables
 
 Reports and documentation deliverables will be accepted when all discrepancies, errors or other deficiencies identified in writing by the Technical Authority have been corrected.
 
@@ -487,11 +491,25 @@ All of the Technical Authority's comments to deliverables must either be incorpo
 If the Contractor requires additional guidance to produce an acceptable deliverable, the Contractor must arrange a meeting with the Technical Authority. 
 
 
-Current Infrastructure
+## Current Infrastructure
 The Open by Default pilot is built on an infrastructure as described by the diagram below.
 
 Image missing
 
+
+
+
+## Footer
+
+Accessibility Procurement Pilot
+Attachment 3 
+Public Services and Procurement Canada
+LOI # 24062-180181/
+
+
+
+
+-------------------
 
 # Not Useful For Procurement
 
@@ -501,6 +519,8 @@ This requirement is subject to Canadian Free Trade Agreement (CFTA), Comprehensi
 
 
 The Canadian Content Policy does not apply to this requirement. 
+
+
 
 
 
@@ -542,16 +562,6 @@ Due date: Within 15 working days of Contract award
   e) Profit: Identify proposed profit, if any, and the basis on which it is computed and applied. 
   
   f) Overhead: State the applicable overhead.
-
-
-
-Footer
-
-Accessibility Procurement Pilot
-Attachment 3 
-Public Services and Procurement Canada
-LOI # 24062-180181/
-
 
 
 
