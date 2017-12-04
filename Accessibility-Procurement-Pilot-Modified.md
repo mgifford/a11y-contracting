@@ -1,11 +1,11 @@
 Original from https://github.com/mgifford/a11y-contracting/blob/master/Accessibility-Procurement-Pilot.md
 
-<p align="center"># Accessibility Procurement Pilot</p>
+<p align="center">
+    # Accessibility Procurement Pilot
+</p>
 
 <p align="center">LETTER OF INTEREST</p>
-
 <p align="center">ACCESSIBILITY PROCUREMENT PILOT ON BEHALF OF</p>
-
 <p align="center">TREASURY BOARD OF CANADA SECRETARIAT</p>
 
 
