@@ -125,8 +125,7 @@ An overriding principle of the industry consultation is that it be conducted wit
 
 ## TERMS AND CONDITIONS:
 
-The following terms and conditions apply to the Consultative Process. In order to encourage open dialogue, 
-Participants agree to:
+The following terms and conditions apply to the Consultative Process. In order to encourage open dialogue, Participants agree to:
 
 a. Discuss their views concerning the requirement and to provide positive resolutions to the issues in question. Everyone will have equal opportunity to share their ideas and suggestions;
 
@@ -282,8 +281,7 @@ The Open by Default Pilot Portal, launched in July 2017, is the newest component
 
 The Open by Default Portal consolidates draft documents (“Digital Assets”) provided by four pilot departments: Natural Resources Canada, Canadian Heritage, Environment and Climate Change Canada, and the Treasury Board of Canada Secretariat. However, additional partner departments will be on-boarded in the future .The Open by Default Pilot Portal includes Digital Assets that are works in progress which have not necessarily been created or formatted for compliance with web accessibility standards. 
 
-Currently, the Open by Default Portal contains approximately 550 Digital Assets in common formats such as .doc, .docx, .xls, .xlsx, .ppt, .pptx, .pdf, and .png. The collection contains such Digital Assets as draft policies, internal draft documentation on systems, and presentations. It is expected that future Digital Assets holdings on the portal could be expanded to include audio and video formats. It is also expected that the volume on content could expand to include 100,000s of digital assets over the next few y
-ears, as departments are onboarded.
+Currently, the Open by Default Portal contains approximately 550 Digital Assets in common formats such as .doc, .docx, .xls, .xlsx, .ppt, .pptx, .pdf, and .png. The collection contains such Digital Assets as draft policies, internal draft documentation on systems, and presentations. It is expected that future Digital Assets holdings on the portal could be expanded to include audio and video formats. It is also expected that the volume on content could expand to include 100,000s of digital assets over the next few years, as departments are onboarded.
 
 ## 3. Challenge 
 
@@ -325,11 +323,9 @@ Due date: Within 15 working days of Contract award
 
 The Contractor must demonstrate the basic functionality of Solution including at a minimum an early stage functional prototype (defined as a minimum viable demonstration of capability) to the Technical Authority and representatives of Canada, in person at a location to be determined by the Technical Authority. 
 
-At a minimum the presentation must include: a functionality demonstration of the 
-prototype of the Solution and an overview of the Contractor’s proposed design and implementation plan for Phase 2 and 3. The presentation should also include an overview of the Innovati veness, Scalability, Accessibility and Functionality of the proposed Solution.
+At a minimum the presentation must include: a functionality demonstration of the prototype of the Solution and an overview of the Contractor’s proposed design and implementation plan for Phase 2 and 3. The presentation should also include an overview of the Innovati veness, Scalability, Accessibility and Functionality of the proposed Solution.
 
-The prototype must 
-demonstrate the ability to improve the accessibility of Digital Assets in relation to at least one of the accessibility issues proposed to be addressed in the Contractor’s draft Design and Implementation Plan.
+The prototype must demonstrate the ability to improve the accessibility of Digital Assets in relation to at least one of the accessibility issues proposed to be addressed in the Contractor’s draft Design and Implementation Plan.
 
 An independent panel will observe the presentation and convene to determine whether to move forward with Phases 2 and 3 of the Contract. 
 
@@ -401,8 +397,7 @@ The Contractor must correct software defects identified during the baseline test
 ##### 4.2.1.4 Standards Compliance testing 
 The Solution must comply with Government of Canada Standards for Web Accessibility and Web Security. Canada will test the Solution for compliance with these standards. The Technical Authority will provide detailed feedback to the Contractor on any issues revealed by compliance testing. The Contractor must resolve the issues in the source code revealed by compliance testing and update the Solution source code. 
 
-Evidence of user testing, debugging, testing for accessibility and security, and an 
-updated Design and Implementation Plan (if applicable) must be provided to the Technical Authority for approval.
+Evidence of user testing, debugging, testing for accessibility and security, and an updated Design and Implementation Plan (if applicable) must be provided to the Technical Authority for approval.
 
 ##### 4.2.1.5 Deliverable(s):
 
@@ -509,20 +504,13 @@ The Open Government website operates using the following open source tools, in c
 - PostgreSQL (Relational Database Management System - Licensed under the Postgresql License.
 
 Government of Canada’s Web Experience Toolkit Relevant Policies to Canada’s Web Presence (available at https://www.tbs-sct.gc.ca/pol/index-eng.aspx): 
-
 1. Directive on the Management of Communications
-
-2. Directive on Official Languages for Communications and Services
-
-3. Standard on Web Accessibility
-
-4. Standard on Web Interoperability
-
-5. Standard on Web Usability
-
-6. Standard on Optimizing Websites and Applications for Mobile Devices
-
-7. Guidance on Implementing the Standard on Web Accessibility
+1. Directive on Official Languages for Communications and Services
+1. Standard on Web Accessibility
+1. Standard on Web Interoperability
+1. Standard on Web Usability
+1. Standard on Optimizing Websites and Applications for Mobile Devices
+1. Guidance on Implementing the Standard on Web Accessibility
 
 The Open Government website is currently housed on a mix of cloud and on premise infrastructure. Solutions must be compatible with infrastructure hosted on the Microsoft (MS) Azure cloud in the Canada Central or Canada East availability regions.
 
