@@ -43,7 +43,7 @@ These are the guidelines currently required for GC websites:
 Like all digital medium itself, change is inevitable. GC takes inspiration from internationally recognized standards that support an improved user experience for all users. 
 
 Where possible, the project should take into consideration the best practices outlined in these open standards:
-- W3C WCAG 2.0 AAA - these guidelines were designed to be aspirational. Where possible see if it is possible to leverage these standards.
+- W3C WCAG 2.0 AAA - these guidelines were designed to be aspirational. Where possible see if it is possible to leverage these guidelines.
 - W3C Authoring Tool Accessibility Guidelines (ATAG) 2.0 - This 2015 guideline is in two parts. Part A asks that the authoring experience meets WCAG 2.0 guidelines. Part B supports the production of more accessible web content through better software. 
 - W3C WCAG 2.1 W3C Working Draft - Although still a Working Draft, this revision of the Web Content Accessibility Guidelines 2.0, is working to provide better access for a broader range of people. Content that conforms to WCAG 2.1 also conforms to WCAG 2.0, and therefore to policies that reference WCAG 2.0 - https://www.w3.org/TR/WCAG21/
 - European Union EN 301 549 – A European Union initiative for public procurement for improving accessibility of information and communications technology (ICT) products and services. Specifies the functional accessibility requirements applicable to ICT products and services. Each accessibility requirement includes a description of the test procedures and evaluation methodology - http://mandate376.standards.eu/standard
