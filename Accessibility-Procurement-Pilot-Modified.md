@@ -169,9 +169,9 @@ a. Any such dispute must first be referred to the Participant's Representative a
 b. In the event the representatives of the Parties specified in Article 2.a. above are unable to resolve the dispute, it will be referred to the Participant's Project Director and the PWGSC Seni or Direct or of the Division responsible to manage the Consultative Process. The parties will have 3 Business Days to resolve the dispute.
 
 c. In the event the representatives of the Parties specified in Article 2.b. above are unable to resolve the dispute, 
-it will be referred to the Participant's President and the PWGSC Director General, who will have 3 Business Days to resolve the dispute.
+it will be referred to the Participant's legal Signing Authority and the PWGSC Director General, who will have 3 Business Days to resolve the dispute.
 
-d. In the event the representatives of the Parties specified in Article 2.c. above are unable to resolve the dispute, it will be referred to the Participant's CEO and the PWGSC Assistant Deputy Minister, Acquisitions Branch who will have 10 Business Days to resolve the dispute.
+d. In the event the representatives of the Parties specified in Article 2.c. above are unable to resolve the dispute, it will be referred to the Participant's legal Signing Authority and the PWGSC Assistant Deputy Minister, Acquisitions Branch who will have 10 Business Days to resolve the dispute.
 
 e. In the event the representatives of the Parties specified in Article 2.d. above are unable to resolve the dispute, the Contracting Authority will within 5 Business Days render a written decision which will include a detailed description of the dispute and the reasons supporting the Contracting Authority's decision. The Contracting Authority will deliver a signed copy thereof to the Participant.
 
