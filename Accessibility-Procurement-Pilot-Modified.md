@@ -147,7 +147,7 @@ e. If GC does release a CFP, the terms and conditions of the CFP will be subject
 
 f. The information gathered from the written responses will be summarized and provided to all Participants, with the exception of proprietary or confidential materials;
 
-g. GC will not reimburse any person or entity for any cost incurred in participating in this consultative process;
+g. GC will not reimburse any person or entity for any cost incurred in responding to the LOI;
 
 h. Participation in this Consultative Process will not be a mandatory requirement for any subsequent CFP. An entity will not be precluded from submitting an proposal under any subsequent CFP on account of they not being a Participant;
 
