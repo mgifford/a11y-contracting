@@ -84,7 +84,7 @@ The Challenge for which Solutions will be sought on behalf of TBS is described i
 The proposed contract will include three 3 Phases. In Phase 1 each Contractor will be required to:
   - demonstrate a functional prototype of their Solution (defined as a minimum viable demonstration of capability).
   - The presentation to a panel anticipated to be held in Shawinigan, Quebec in mid-March 2018. Reasonable expenses for attending the panel presentation will be covered, see Appendix 3 Section 4.1.2 for details.
-  - The maximum funding available for Phase 1 of any contract resulting from this CFP is $15,000.00, applicable Taxes excluded.
+  - The maximum funding available for Phase 1 of any contract resulting from this CFP is $15,000.00, applicable Taxes excluded. The expenses associated with attending the panel are excluded from this cap. 
 
 The maximum funding available for all phases of any contract resulting from this CFP is $320,000 for the Open by Default accessibility challenge, applicable taxes and travel and living expenses are excluded.
 
