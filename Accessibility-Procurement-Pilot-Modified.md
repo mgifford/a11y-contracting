@@ -104,7 +104,7 @@ Solutions developed (not pre-existing) for either challenge must be licenced und
 
 Under any contract resulting from the CFP, the Contractor will be required to deposit the Solution’s source code in a public facing repository on the GitHub platform - https://github.com - under an open source license as specified above.
 
-The Contractor must create and maintain a public repository for the project on GitHub during the period of the Contract. All updates to the Solution source code must be deposited on GitHub, as well as, the final Solution source code. This will enable anyone to subscribe to notifications of changes while also allowing for conversations, issue tracking, and code reviews.
+The Contractor must create and maintain a public repository for the project on GitHub during the period of the Contract. All updates to the Solution source code must be deposited on GitHub, as well as, the final Solution source code. Before the final payment, the ownership of the code should be transferred to https://github.com/canada-ca - this will enable anyone to subscribe to notifications of changes while also allowing for conversations, issue tracking, and code reviews.
 
 Should accessibility issues be found "up-stream" in libaries used by the project, efforts should be made to ensure that:
 - a search is done to confirm that the community knows about the problem
