@@ -108,7 +108,7 @@ The Contractor must create and maintain a public repository for the project on G
 
 Should accessibility issues be found "up-stream" in libaries used by the project, efforts should be made to ensure that:
 - a search is done to confirm that the community knows about the problem
-- patches supplied by the community are tested, if they resolve the pattern, then this should be added to the issue queue
+- patches supplied by the community are tested, if they resolve the pattern, then this should be added to the issue queue before the project is finalized. 
 - if no patch is available, but one is generated on behalf of the contract, that should be submitted to the parent project
 - all of this should be documented for the GC
 
