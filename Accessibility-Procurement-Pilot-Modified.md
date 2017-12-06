@@ -52,7 +52,7 @@ Where possible, the project should take into consideration the best practices ou
 ## 3. REQUIREMENT
 
 - Any Solution proposed must be open source software (OSS) solution.
-- Unless specified otherwise, all written communications will be in an electronic and accessible format. Acceptible formats include .txt, .odf, .doc and .epub. If properly tagged for accessibility .pdf will be accepted. 
+- Unless specified otherwise, all written communications will be in an electronic and accessible format. Acceptable formats include .txt, .odf, .doc(x) and .epub. If properly tagged for accessibility .pdf will be accepted. 
 - Responses must be in either English or French, at the preference of the Respondent.
 
 ### 3.1 TBS - OPEN BY DEFAULT PILOT PORTAL (CHALLENGE 1)
