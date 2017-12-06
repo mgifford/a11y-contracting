@@ -268,7 +268,7 @@ Statement of Work for Open by Default Pilot Portal Challenge
 
 The Government of Canada has outlined commitments to advance openness and transparency through Action Plans on Open Government submitted to the Open Government Partnership since 2012. One of the core mandates expressed in these action plans is to advance openness through the open government website - https://open.canada.ca
 
-The Open Government website was initially launched as a pilot, data.gc.ca, in 2011. The pilot open data portal then expanded to include various information resources and to facilitate engagement on the open government initiative and associated activities. In keeping with Canada’s initial strategy on open government, the Open Government website’s architecture is built around the pillars of open data, open information and open dialogue, and its infrastructure is built on open source solutions: CKAN, Drupal 7 and Solr. As Canada continues to advance the open government initiative and to release a growing number of resources, it has become apparent that the accessibility of content needs to be improved. There is also a desire to do more in terms of engaging with users and visitors through the Open Government website.
+The Open Government website was initially launched as a pilot, data.gc.ca, in 2011. The pilot open data portal then expanded to include various information resources and to facilitate engagement on the open government initiative and associated activities. In keeping with Canada’s initial strategy on open government, the current Open Government website’s architecture is built around the pillars of open data, open information and open dialogue, and its infrastructure is built on open source solutions: CKAN, Drupal 7 and Apache Solr. As Canada continues to advance the open government initiative and to release a growing number of resources, it has become apparent that the accessibility of content needs to be improved. There is also a desire to do more in terms of engaging with users and visitors through the Open Government website.
 
 GC is committed to removing barriers to access for Government information and services. With that in mind, GC is mandated to ensure that all websites and web applications adhere to Web Content Accessibility Guidelines (WCAG) 2.0 AA. 
 
@@ -280,7 +280,7 @@ As Canada’s work on open government advances, there are opportunities to impro
 
 ### 2.1 The Open by Default Pilot Portal (http://pilot.open.canada.ca/open-by-default-pilot) 
 
-The new Open by Default Pilot Portal (Pilot Portal) is the latest component of the Open Government website. This is an online beta site where non-sensitive federal working documents available to the public. This provides users with insight into what Government of Canada employees are working on. The Open by Default Pilot Portal leverages existing operational systems that power open.canada.ca. These include CKAN, Drupal 8 and Apache Solr. It also leverages GCDocs, an internal records management tool. The technical architecture of the Open by Default Pilot Portal, mirrors that of the Open Government Portal. Instructions to build the environment will be provided as well as all source code for the architecture. Currently all code for this project is available on GitHub - https://github.com/open-data
+The new Open by Default Pilot Portal (Pilot Portal) is the latest component of the Open Government website. This is an online beta site where non-sensitive federal working documents available to the public. This provides users with insight into what Government of Canada employees are working on. The Open by Default Pilot Portal leverages existing operational systems that power open.canada.ca. In the pilot these include CKAN, Drupal 8 and Apache Solr. It also leverages GCDocs, an internal records management tool. The technical architecture of the Open by Default Pilot Portal, mirrors that of the Open Government Portal. Instructions to build the environment will be provided as well as all source code for the architecture. Currently all code for this project is available on GitHub - https://github.com/open-data
 
 The Pilot Portal consolidates draft documents (“Digital Assets”) provided by pilot departments. The current departments are Natural Resources Canada, Canadian Heritage, Environment and Climate Change Canada, and the Treasury Board of Canada Secretariat. The  Digital Assets in the pilot may not comply with web accessibility standards. 
 
@@ -468,7 +468,7 @@ The Solution must be compatible with the Open Government website’s existing di
 
 ### 5.1 Existing Open Government Website Digital Infrastructure
 
-The Open Government website operates using the following open source tools, in compliance with the listed policies relating to websites for Canada.
+The Open Government pilot site operates using the following open source tools, in compliance with the listed policies relating to websites for Canada.
 - CKAN (Data Catalogue) – Licensed under the Affero GNU GPL v3.0 License;
 - Apache Solr (Search Engine) - Licensed under the Apache License 2.0;
 - Drupal 8 (Content Management System) - Licensed under the GPL v2 License;
