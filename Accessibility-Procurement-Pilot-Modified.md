@@ -11,16 +11,16 @@ Original from https://github.com/mgifford/a11y-contracting/blob/master/Accessibi
 
 The purpose of this Letter of Interest (LOI) is to notify industry of GC’s intention to:
 - issue a Call for Proposals (CFP) in relation to the Treasury Board of Canada Secretariat’s Open by Default Pilot Portal; 
-- to provide advance notice of the challenges for which Canada intends to seek proposals; and 
+- to provide advance notice of the challenges for which GC intends to seek proposals; and 
 - to provide industry the opportunity to give written feedback on the requirement and procurement strategy. 
 
-Canada is looking to partner more closely with leading innovators in Canada and abroad to help address accessibility issues specifically relating to documents on the Open by Default Pilot Portal, which is housed on the open government website, Open.canada.ca (“Open Government website”).
+GC is looking to partner more closely with leading innovators in GC and abroad to help address accessibility issues specifically relating to documents on the Open by Default Pilot Portal, which is housed on the open government website, Open.canada.ca (“Open Government website”).
 
 ## 2. BACKGROUND 
 
-The Government of Canada (“GC”) is committed to advancing openness and transparency. Governments today face barriers to being completely open to all Canadians. About 14% of Canadians report having a disability that limits day-to-day activities. With an aging population, this percentage will likely increase. Many Canadians also live with invisible disabilities. Others may not wish to report having one. Canada faces a clear imperative to be inclusive. For a multitude of reasons we must work to remove barriers to persons with disabilities in this country.
+The Government of Canada (“GC”) is committed to advancing openness and transparency. Governments today face barriers to being completely open to all Canadians. About 14% of Canadians report having a disability that limits day-to-day activities. With an aging population, this percentage will likely increase. Many Canadians also live with invisible disabilities. Others may not wish to report having one. GC faces a clear imperative to be inclusive. For a multitude of reasons we must work to remove barriers to persons with disabilities in this country.
 
-The accelerating pace of digital change means that new tools are being introduced. Most do so without consideration for accessibility, others are focus on enhancing it. Accessibility issues can be both varied and complex. Emerging approaches show promise in helping to reduce barriers. Canada is committed to raising the bar on accessibility to be an international leader for equality and human rights.
+The accelerating pace of digital change means that new tools are being introduced. Most do so without consideration for accessibility, others are focus on enhancing it. Accessibility issues can be both varied and complex. Emerging approaches show promise in helping to reduce barriers. GC is committed to raising the bar on accessibility to be an international leader for equality and human rights.
 
 
 ### 2.1 EXISTING WEB STANDARDS, GUIDANCE, AND RESOURCES
@@ -32,7 +32,7 @@ These are the guidelines currently required for GC websites:
 - GC Guidance on Implementing the Standard on Web Accessibility – Assists departments by providing tools, solutions and guidance - https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/guidance-implementing-standard-web-accessibility.html
 - World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 - the international 2008 standard for web accessibility.  Governments around the world have adopted WCAG 2.0 AA as the goal for most web sites. https://www.w3.org/WAI/intro/wcag
 - GC’s Web Experience Toolkit - http://wet-boew.github.io/wet-boew/
-- Other relevant policies to Canada’s Web presence - https://www.tbs-sct.gc.ca/pol/index-eng.aspx
+- Other relevant policies to GC’s Web presence - https://www.tbs-sct.gc.ca/pol/index-eng.aspx
     1. Directive on the Management of Communications
     2. Directive on Official Languages for Communications and Services
     3. Standard on Web Interoperability
@@ -225,7 +225,7 @@ GC reserves the right to seek clarifications from a Respondent for any informati
 
 ## 3. CONFIDENTIALITY
 
-Respondents are requested to clearly identify those portions of their response that are company confidential or proprietary in nature. The confidentiality of each Respondent’s response will be maintained. Items that are identified as proprietary will be treated as such except where Canada determines that the enquiry is not of a proprietary nature. Canada may edit the questions or may request that the respondent do so, so that the proprietary nature of the question is eliminated, and the enquiry can be answered with copies to all interested parties.
+Respondents are requested to clearly identify those portions of their response that are company confidential or proprietary in nature. The confidentiality of each Respondent’s response will be maintained. Items that are identified as proprietary will be treated as such except where GC determines that the enquiry is not of a proprietary nature. GC may edit the questions or may request that the respondent do so, so that the proprietary nature of the question is eliminated, and the enquiry can be answered with copies to all interested parties.
 
 ### SECTION 2: REQUIREMENT
 
@@ -268,13 +268,13 @@ Statement of Work for Open by Default Pilot Portal Challenge
 
 The Government of Canada has outlined commitments to advance openness and transparency through Action Plans on Open Government submitted to the Open Government Partnership since 2012. One of the core mandates expressed in these action plans is to advance openness through the open government website - https://open.canada.ca
 
-The Open Government website was initially launched as a pilot, data.gc.ca, in 2011. The pilot open data portal then expanded to include various information resources and to facilitate engagement on the open government initiative and associated activities. In keeping with Canada’s initial strategy on open government, the current Open Government website’s architecture is built around the pillars of open data, open information and open dialogue, and its infrastructure is built on open source solutions: CKAN, Drupal 7 and Apache Solr. As Canada continues to advance the open government initiative and to release a growing number of resources, it has become apparent that the accessibility of content needs to be improved. There is also a desire to do more in terms of engaging with users and visitors through the Open Government website.
+The Open Government website was initially launched as a pilot, data.gc.ca, in 2011. The pilot open data portal then expanded to include various information resources and to facilitate engagement on the open government initiative and associated activities. In keeping with GC’s initial strategy on open government, the current Open Government website’s architecture is built around the pillars of open data, open information and open dialogue, and its infrastructure is built on open source solutions: CKAN, Drupal 7 and Apache Solr. As GC continues to advance the open government initiative and to release a growing number of resources, it has become apparent that the accessibility of content needs to be improved. There is also a desire to do more in terms of engaging with users and visitors through the Open Government website.
 
 GC is committed to removing barriers to access for Government information and services. With that in mind, GC is mandated to ensure that all websites and web applications adhere to Web Content Accessibility Guidelines (WCAG) 2.0 AA. 
 
 New resources of information are constantly being added to the Open Government website and the future vision is for it to become a hub of data, information and opportunities to participate and learn. Early research indicates that a majority of users are seeking data of one type or another, with a smaller but significant group looking for opportunities to participate or engage with government.
 
-As Canada’s work on open government advances, there are opportunities to improve the user experience of its online tools, including improving access to digital publications and draft documents made available by the Government of Canada.
+As GC’s work on open government advances, there are opportunities to improve the user experience of its online tools, including improving access to digital publications and draft documents made available by the Government of Canada.
 
 ## 2. Background
 
@@ -317,7 +317,7 @@ There will be at least 15 working days following the approval by the Technical A
 
 #### 4.1.2 Demonstration
 
-The Contractor must demonstrate the basic functionality of Solution including at a minimum an early stage functional prototype (defined as a minimum viable demonstration of capability) to the Technical Authority and representatives of Canada, in person at a location to be determined by the Technical Authority. 
+The Contractor must demonstrate the basic functionality of Solution including at a minimum an early stage functional prototype (defined as a minimum viable demonstration of capability) to the Technical Authority and representatives of GC, in person at a location to be determined by the Technical Authority. 
 
 At a minimum the presentation must include: a functionality demonstration of the prototype of the Solution and an overview of the Contractor’s proposed design and implementation plan for Phase 2 and 3. The presentation should also include an overview of the Innovativeness, Scalability, Accessibility and Functionality of the proposed Solution.
 
@@ -331,7 +331,7 @@ All travel must have the prior authorization of the Technical Authority.
 
 #### 4.1.3 Financial Proposal
 
-The Contractor must provide a Financial Proposal for Phases 2 and 3 of the Work in accordance with Annex B, Basis of Payment. The Financial Proposal for Phases 2 and 3 will be subject to negotiation with GC. Upon GC’s request, the Contractor must provide Price Support for the Financial Proposal for Phases 2 and 3, which may include; a current published price list indicating the percentage discount available to Canada; or copies of paid invoices for the like quality and quantity of the goods, services or both sold to other customers; or price or rate certifications; or any other supporting documentation as requested by GC. 
+The Contractor must provide a Financial Proposal for Phases 2 and 3 of the Work in accordance with Annex B, Basis of Payment. The Financial Proposal for Phases 2 and 3 will be subject to negotiation with GC. Upon GC’s request, the Contractor must provide Price Support for the Financial Proposal for Phases 2 and 3, which may include; a current published price list indicating the percentage discount available to GC; or copies of paid invoices for the like quality and quantity of the goods, services or both sold to other customers; or price or rate certifications; or any other supporting documentation as requested by GC. 
 
 The Financial Proposal for Phases 2 and 3 must include the following information, as applicable, for each element of the Work:
 
@@ -406,7 +406,7 @@ The Contractor must conduct automated unit tests for all python based software m
 
 The Contractor must perform integration testing on its own system, resolve any issues revealed through integration testing and update the Solution source code. GC will provide the Contractor with a free image of Oracle's VirtualBox with the Open by Default Portal configuration allowing the Contractor to configure their environment for integration testing. 
 
-As a final test the Contractor must provide instructions and the updated source code for Canada to install and test the code on an open.canada.ca development environment. The Contractor must provide a report to the Technical Authority detailing the results of their internal integration testing and the instructions for Canada to install and test the source code in the development environment. 
+As a final test the Contractor must provide instructions and the updated source code for GC to install and test the code on an open.canada.ca development environment. The Contractor must provide a report to the Technical Authority detailing the results of their internal integration testing and the instructions for GC to install and test the source code in the development environment. 
 
 In accordance with timelines to be established in the Design and Implementation Plan, The Technical Authority will provide detailed feedback to the Contractor on any issues revealed by its own integration testing. The Contractor must resolve the issues revealed and resubmit the updated source code to the Technical Authority for re-testing.
 
@@ -434,11 +434,11 @@ Due Date: within 48 hours of the progress review meeting
 
 #### 4.3.1 Implementation Support
 
-The Contractor will provide technical support to Canada, as the Solution is implemented on the production environment. The Contractor must make resources with the knowledge required to implement the Solution on Canada’s production environment available via telephone and email to Canada during the implementation of the Solution.
+The Contractor will provide technical support to GC, as the Solution is implemented on the production environment. The Contractor must make resources with the knowledge required to implement the Solution on GC’s production environment available via telephone and email to GC during the implementation of the Solution.
 
 #### Deliverable(s)
 
-Professional services in the form of technical support to Canada during the implementation of the Solution.
+Professional services in the form of technical support to GC during the implementation of the Solution.
 
 Due Date: To be determined in accordance with the Contractor’s Design and Implementation Plan.
 
@@ -468,7 +468,7 @@ The Solution must be compatible with the Open Government website’s existing di
 
 ### 5.1 Existing Open Government Website Digital Infrastructure
 
-The Open Government pilot site operates using the following open source tools, in compliance with the listed policies relating to websites for Canada.
+The Open Government pilot site operates using the following open source tools, in compliance with the listed policies relating to websites for GC.
 - CKAN (Data Catalogue) – Licensed under the Affero GNU GPL v3.0 License;
 - Apache Solr (Search Engine) - Licensed under the Apache License 2.0;
 - Drupal 8 (Content Management System) - Licensed under the GPL v2 License;
