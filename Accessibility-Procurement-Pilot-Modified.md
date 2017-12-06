@@ -215,7 +215,7 @@ Only include general marketing material unless it provides specific information 
 
 Only written LOI presentations can be submitted and responses will not be returned.
 
-Please keep the length of your response to 3 - 8.5x11 pages, plus the signed copy of the Rules of Engagement Participation Agreement (as per Attachment 1). These can be provided as a PDF file to allow for analog signatures.  
+Please keep the length of your response to under 2500 words, plus the signed copy of the Rules of Engagement Participation Agreement (as per Attachment 1). These can be provided as a PDF file to allow for analog signatures.  
 
 ## 2. RESPONSE PARAMETERS 
 
