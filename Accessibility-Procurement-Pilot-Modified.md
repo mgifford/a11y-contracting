@@ -400,7 +400,7 @@ Due date: To be determined in accordance with the Contractor’s Design and Impl
 
 The Contractor must perform unit testing and integration testing of the Solution with the Open Government website infrastructure and update the Design and Implementation Plan. The Contractor must perform all unit and integration testing in their own environment.
 
-The Contractor must conduct automated unit tests for all Python based software modules. The Contractor must resolve any issues revealed by the automated unit tests and update Solution source code. The Contractor must provide a report electronically to the Technical Authority detailing the results of all automated unit testing.
+Where possible, the Contractor is expected to build unit tests for all new code developed (Python, PHP and JavaScript). The Contractor must resolve any issues revealed by the automated unit tests and update Solution source code. The Contractor must provide a report electronically to the Technical Authority detailing the results of all automated unit testing.
 
 ##### 4.2.2.2 Integration Testing
 
@@ -469,9 +469,9 @@ The Solution must be compatible with the Open Government website’s existing di
 ### 5.1 Existing Open Government Website Digital Infrastructure
 
 The Open Government pilot site operates using the following open source tools, in compliance with the listed policies relating to websites for GC.
-- CKAN (Data Catalogue) – Licensed under the Affero GNU GPL v3.0 License;
+- CKAN (Data Catalogue) [Python] – Licensed under the Affero GNU GPL v3.0 License;
 - Apache Solr (Search Engine) - Licensed under the Apache License 2.0;
-- Drupal 8 (Content Management System) - Licensed under the GPL v2 License;
+- Drupal 8 (Content Management System) [PHP] - Licensed under the GPL v2 License;
 - PostgreSQL (Relational Database Management System - Licensed under the Postgresql License.
 
 The Open Government website is currently housed on a mix of cloud and on premise infrastructure. Solutions must be compatible with infrastructure hosted on the Microsoft (MS) Azure cloud in the Canada Central or Canada East availability regions.
