@@ -400,7 +400,7 @@ Due date: To be determined in accordance with the Contractor’s Design and Impl
 
 The Contractor must perform unit testing and integration testing of the Solution with the Open Government website infrastructure and update the Design and Implementation Plan. The Contractor must perform all unit and integration testing in their own environment.
 
-Where possible, the Contractor is expected to build unit tests for all new code developed (Python, PHP and JavaScript). The Contractor must resolve any issues revealed by the automated unit tests and update Solution source code. The Contractor must provide a report electronically to the Technical Authority detailing the results of all automated unit testing.
+Where possible, the Contractor is expected to build unit tests for all new code developed. The Contractor must resolve any issues revealed by the automated unit tests and update Solution source code. The Contractor must provide a report electronically to the Technical Authority detailing the results of all automated unit testing.
 
 ##### 4.2.2.2 Integration Testing
 
