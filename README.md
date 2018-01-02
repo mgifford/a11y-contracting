@@ -85,3 +85,4 @@ or
 - [Partnership on Employment & Accessible Technology (PEAT)'s Buy IT](http://www.peatworks.org/Buy-IT)
 - [Fluid Project - Accessible ICT Procurement Policy Wiki](https://wiki.fluidproject.org/display/fluid/Accessible+ICT+Procurement+Policy)
 - [Accessibility requirements suitable for public procurement of ICT products and services in Europe](http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.01_60/en_301549v010101p.pdf)
+- [EU: Managing accessibility in the public procurement of ICT](http://mandate376.standards.eu/)
