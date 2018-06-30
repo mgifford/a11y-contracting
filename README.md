@@ -21,7 +21,7 @@ Building Accessibility Best Practices into Contracting
  - Any specific requirements to use Web Accessibility Initiatives – Accessible Rich Internet Applications (“WAI-ARIA”) to further enhance accessibility. If used properly it will, but it doesn't add anything beyond WCAG 2.0 AA above and can destract from accessibility if it is implemented poorly. 
 
 ## Ten Steps for Accessible IT Procurement 
-### based roughly on [Smart Practices for Addressing Accessibility in Vendor Contracts](https://businesslawtoday.org/2018/04/technology-vendor-contracts-accessibility-every-business-lawyer-know/#toc-2)
+Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contracts](https://businesslawtoday.org/2018/04/technology-vendor-contracts-accessibility-every-business-lawyer-know/#toc-2)
 1. Set up an internal Accessibility Policy
 1. List goals (like WCAG 2.1 AA), your internal policy as well as any government regulations you must comply with
 1. Ask for details on how the vendor will meet accessibility goals. Make sure these do not rely exclusively on automated tests
