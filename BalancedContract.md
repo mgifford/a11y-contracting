@@ -1,3 +1,7 @@
+# Balanced Contract for Accessibility
+
+Both The Client & The Vendor accept responsibility for the accessibility of the project. 
+
 The Vendor intends to build the website to meet Web Content Accessibility Guidelines (WCAG) 2.1 Level AA. Where possible, The Vendor will find opportunities exceed these guidelines to reduce barriers. Special attention will invested in ensuring that the elements common to all pages meet WCAG 2.1 AA. 
 
 The Client has selected a tool which includes elements of the W3C's Authoring Tool Accessibility Guidelines (ATAG) 2.0. The Vendor will use a combination of automated and manual testing techniques. The Vendor’s internal review will be setup to ensure that they are following best practices. The Vendor will complete this before the The Client arranges an independent assessment. 
