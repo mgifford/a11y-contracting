@@ -2,7 +2,7 @@
 
 ## B. Accessible Procurement Checklist
 
-The following sections provide detail about addressing accessibility in each step of the procurement process. A quick checklist is provided here for easy reference.
+The following sections provide detail about addressing accessibility in each step of the procurement process. A quick checklist is provided here for easy reference:
 
 - Contact the local EALT member for assistance with finding an IT accessibility expert to participate on the procurement team.
 - Include text in the RFP or other procurement process that requires the supplier to submit information about the accessibility of the IT product or service.
@@ -42,7 +42,7 @@ Text should be included in RFP or other procurement processes to request detaile
 Once the product or service has been purchased, it is important for IT accessibility experts to meet with the supplier, before installation or project initiation, to review accessibility requirements and
 expectations.
 
-It also is important to clarify how product/service accessibility will be maintained throughout the life of the contract. This includes establishing procedures to
+It also is important to clarify how product/service accessibility will be maintained throughout the life of the contract. This includes establishing procedures to:
 - Re-test new versions/updates.
 - Evaluate and duplicate any complaints.
 - Communicate complaints to the supplier via the procurement team.
