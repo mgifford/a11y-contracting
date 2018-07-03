@@ -43,12 +43,12 @@ Once the product or service has been purchased, it is important for IT accessibi
 expectations.
 
 It also is important to clarify how product/service accessibility will be maintained throughout the life of the contract. This includes establishing procedures to
-• Re-test new versions/updates.
-• Evaluate and duplicate any complaints.
-• Communicate complaints to the supplier via the procurement team.
-• Verify that issues have been remedied.
-• Alert the EALT if there are significant accessibility problems with products widely used at UC.
-• Provide feedback to the EALT about suppliers, products, and the purchase process to help improve these guidelines.
+- Re-test new versions/updates.
+- Evaluate and duplicate any complaints.
+- Communicate complaints to the supplier via the procurement team.
+- Verify that issues have been remedied.
+- Alert the EALT if there are significant accessibility problems with products widely used at UC.
+- Provide feedback to the EALT about suppliers, products, and the purchase process to help improve these guidelines.
 
 #### Checklist
 - Have an IT accessibility expert review IT accessibility requirements and expectations with the
