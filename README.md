@@ -42,6 +42,7 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
  - Do you use a "work for hire" policy which traps all intellectual property done with institution money/time? Is it possible to explicitly exempt open-source contributions or encourage contributions?
  - How are you planning to use the product?
  - How are Voluntary Product Accessibility Template (VPAT)s seen & evaluated within your institution?
+ - Do they have an [Accessibility Statement(https://github.com/accessibility/Accessibility-Statement/) or Accessibility Policy - if so it should be included.
 
 ### Internal expertise
  - Is there a Accessible Technology Initiative (ATI) person in your organization who can help ensure consistent implementation of Accessible ICT procurement procedures?
