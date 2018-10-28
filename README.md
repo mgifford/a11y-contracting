@@ -105,3 +105,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Accessibility requirements suitable for public procurement of ICT products and services in Europe](http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.01_60/en_301549v010101p.pdf)
 - [EU: Managing accessibility in the public procurement of ICT - Mandate 376](http://mandate376.standards.eu/)
 - [a11yhuman: How do we make procurement accessible?](https://a11yhuman.wordpress.com/2018/06/28/how-do-we-make-procurement-accessible/)
+- [WebAim: The Role of Procurement in Digital Accessibility](https://wcetfrontiers.org/2018/10/23/procurement-in-digital-accessibility/)
