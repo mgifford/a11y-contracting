@@ -20,7 +20,7 @@ Building Accessibility Best Practices into Contracting
 ## Don't include in RFP
  - Any specific requirements to use Web Accessibility Initiatives – Accessible Rich Internet Applications (“WAI-ARIA”) to further enhance accessibility. If used properly it will, but it doesn't add anything beyond WCAG 2.0 AA above and can destract from accessibility if it is implemented poorly. 
 
-## Ten Steps for Accessible IT Procurement 
+## 10 Steps for Accessible IT Procurement 
 Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contracts](https://businesslawtoday.org/2018/04/technology-vendor-contracts-accessibility-every-business-lawyer-know/#toc-2)
 1. Set up an internal Accessibility Policy
 1. List goals (like WCAG 2.1 AA), your internal policy as well as any government regulations you must comply with
@@ -32,6 +32,13 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 1. Do an independent evaluation. If you are hiring a firm to build a customized solution, make sure you test it before it is launched. The vendor should know this will happen.
 1. See that you have processes in place to escalate accessibility problems when they come up. There will be new barriers identified as people start using the technology, make sure there are processes in place to deal with them quickly. 
 1. Set up a monitoring agreement with a 3rd party to see that you get informed of new issues when they come up
+
+## 5 simple steps for clients to evaluate vendors
+1. Evauate the vendor's site with something like to see basic errors https://wave.webaim.org
+1. Ask about their experience working with web accessibility?
+1. Determine how accessibility fits as part of their QA process?
+1. Ask when they address accessibility in their devepment process?
+1. Learn about training opportunities for your staff?
 
 ## Questions for the Procurer (Client):
  - Is there an established accessibility procurement policy or a procurement policy where accessibility is explicitly mentioned?
