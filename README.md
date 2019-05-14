@@ -34,10 +34,10 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 1. Set up a monitoring agreement with a 3rd party to see that you get informed of new issues when they come up
 
 ## 5 simple steps for clients to evaluate vendors
-1. Evauate the vendor's site with something like to see basic errors https://wave.webaim.org
+1. Evaluate the vendor's site with something like to see basic errors https://wave.webaim.org
 1. Ask about their experience working with web accessibility?
 1. Determine how accessibility fits as part of their QA process?
-1. Ask when they address accessibility in their devepment process?
+1. Ask when they address accessibility in their development process?
 1. Learn about training opportunities for your staff?
 
 ## Questions for the Procurer (Client):
