@@ -26,8 +26,8 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 1. List goals (like WCAG 2.1 AA), your internal policy as well as any government regulations you must comply with
 1. Ask for details on how the vendor will meet accessibility goals. Make sure these do not rely exclusively on automated tests
 1. Make sure that your RFP is accessible and that the proposals are also created in an accessible format
-1. Clients should have people knowledgable about accessibility as part of the procurement process and should be asking questions about the process to demonstrate that this is important
-1. Not all products have a VPAT. Most VPATs are mostly marketing. If a VPAT is produced by a recognized 3rd party, it can provide some useful insights. It is the client's responsibility to ensure that they underestand it, so ask questions
+1. Clients should have people knowledgeable about accessibility as part of the procurement process and should be asking questions about the process to demonstrate that this is important
+1. Not all products have a VPAT. Most VPATs are mostly marketing. If a VPAT is produced by a recognized 3rd party, it can provide some useful insights. It is the client's responsibility to ensure that they understand it, so ask questions
 1. Make sure that you have understanding about the contract. There are other examples here of what you might want to consider
 1. Do an independent evaluation. If you are hiring a firm to build a customized solution, make sure you test it before it is launched. The vendor should know this will happen.
 1. See that you have processes in place to escalate accessibility problems when they come up. There will be new barriers identified as people start using the technology, make sure there are processes in place to deal with them quickly. 
