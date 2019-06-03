@@ -114,3 +114,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [a11yhuman: How do we make procurement accessible?](https://a11yhuman.wordpress.com/2018/06/28/how-do-we-make-procurement-accessible/)
 - [WebAim: The Role of Procurement in Digital Accessibility](https://wcetfrontiers.org/2018/10/23/procurement-in-digital-accessibility/)
 - [Office of the President, University of California - Electronic Accessibility Policy Procurement](https://www.ucop.edu/electronic-accessibility/standards-and-best-practices/procurement/index.html)
+- [Business Disability International: Global Procurement Taskforce](https://www.businessdisabilityinternational.org/global-procurement-taskforce/)
