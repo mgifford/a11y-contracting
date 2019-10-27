@@ -102,6 +102,10 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
  - Have you adopted a [Policy-driven Adoption for Accessibility (PDAA)](http://mn.gov/mnit/programs/accessibility/it-procurement.jsp) framework to demonstrate the extent to which your organization has implemented accessibility best practices?
  - Does your website & proposal reflect knowledge of accessibility? How well does the vendor site score with automated tests like http://wave.webaim.org/ or https://tenon.io/
 
+## Related Presentations
+- [Procurement & Vendors: Practical Tips for Digital Accessibility Teams](https://www.slideshare.net/aidantierney/procurement-vendors-practical-tips-for-digital-accessibility-teams) by [Aidan Tierney](https://twitter.com/AidanA11y)
+- [Accessibility & Procurement: Where it All Goes Wrong!](https://docs.google.com/presentation/d/1VTnFjkBX0-iwfhVz6aAcrPWtqEQyplHLJsj2kF7wQAg/edit?usp=sharing) by [Mike Gifford](https://twitter.com/mgifford)
+
 ## Useful Links
 - [Ireland's NDA IT Procurement Toolkit](http://universaldesign.ie/Technology-ICT/IT-Procurement-Toolkit/IT-Procurement-Toolkit.html)
 - [University of Washington's Example Policies in Higher Education](http://www.washington.edu/accessibility/requirements/example-policies/)
