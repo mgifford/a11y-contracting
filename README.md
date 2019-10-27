@@ -107,7 +107,9 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Accessibility & Procurement: Where it All Goes Wrong!](https://docs.google.com/presentation/d/1VTnFjkBX0-iwfhVz6aAcrPWtqEQyplHLJsj2kF7wQAg/edit?usp=sharing) by [Mike Gifford](https://twitter.com/mgifford)
 
 ## Useful Links
-- [Ireland's NDA IT Procurement Toolkit](http://universaldesign.ie/Technology-ICT/IT-Procurement-Toolkit/IT-Procurement-Toolkit.html)
+- [Disability:INclusive Workplaces – Accessible Technology Procurement Toolkit](https://private.disabilityin.org/procurementtoolkit/)
+- [Republic of Ireland's NDA IT Procurement Toolkit](http://universaldesign.ie/Technology-ICT/IT-Procurement-Toolkit/IT-Procurement-Toolkit.html)
+- [EU: Managing accessibility in the public procurement of ICT](http://mandate376.standards.eu/)
 - [University of Washington's Example Policies in Higher Education](http://www.washington.edu/accessibility/requirements/example-policies/)
 - [Minnesota IT Services Procurement for accessible IT products and services](https://mn.gov/mnit/programs/accessibility/it-procurement.jsp)
 - [OpenConcept's Draft Procurement Policy](https://openconcept.ca/blog/mike/drafting-procurement-policy)
@@ -119,4 +121,5 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [WebAim: The Role of Procurement in Digital Accessibility](https://wcetfrontiers.org/2018/10/23/procurement-in-digital-accessibility/)
 - [Office of the President, University of California - Electronic Accessibility Policy Procurement](https://www.ucop.edu/electronic-accessibility/standards-and-best-practices/procurement/index.html)
 - [Business Disability International: Global Procurement Taskforce](https://www.businessdisabilityinternational.org/global-procurement-taskforce/)
-- [Disability:INclusive Workplaces – Accessible Technology Procurement Toolkit](https://private.disabilityin.org/procurementtoolkit/)
+- [Throwing Your Organization’s Money Away Or Why Must Your Organization Pay to Test Accessibility of IT Products and Services It Purchases??](https://jeffklinesstrategicitaccessibilityblog.wordpress.com/2017/09/05/throwing-your-organizations-money-away-or-why-must-your/) by Jeff Klines
+- [NASCIO: Accessibility in IT Procurement](https://www.nascio.org/pdaa) by Mike Cooke
