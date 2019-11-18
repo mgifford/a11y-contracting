@@ -124,3 +124,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Throwing Your Organization’s Money Away Or Why Must Your Organization Pay to Test Accessibility of IT Products and Services It Purchases??](https://jeffklinesstrategicitaccessibilityblog.wordpress.com/2017/09/05/throwing-your-organizations-money-away-or-why-must-your/) by Jeff Klines
 - [NASCIO: Accessibility in IT Procurement](https://www.nascio.org/pdaa) by Mike Cooke
 - [WP1824: Global Digital Marketplace ICT commissioning guidelines and associated KPIs](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities/11083) by the UK Gov Digital Marketplace
+- [Procure accessibility](https://www.accessibilityassociation.org/content.asp?admin=Y&contentid=624)
