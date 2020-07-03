@@ -127,3 +127,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Procure accessibility](https://www.accessibilityassociation.org/content.asp?admin=Y&contentid=624)
 - [Jonathan Hassell: How do I know if my digital agency are baking in accessibility to my products?](https://www.linkedin.com/pulse/how-do-i-know-my-digital-agency-baking-accessibility-products/)
 - [Temple University: A guide to accessible purchasing](https://accessibility.temple.edu/guide-accessible-purchasing)
+- [NASCIO: Accessibility in IT Procurement Part 1](https://www.nascio.org/resource-center/resources/accessibility-in-it-procurement-part-1/) and [Part 2](https://www.nascio.org/resource-center/resources/accessibility-in-it-procurement-part-2/)
