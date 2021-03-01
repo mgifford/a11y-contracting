@@ -129,3 +129,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Temple University: A guide to accessible purchasing](https://accessibility.temple.edu/guide-accessible-purchasing)
 - [NASCIO: Accessibility in IT Procurement Part 1](https://www.nascio.org/resource-center/resources/accessibility-in-it-procurement-part-1/) and [Part 2](https://www.nascio.org/resource-center/resources/accessibility-in-it-procurement-part-2/)
 - [UNESCAP: Disability-inclusive Public Procurement — Promoting Universial Design and Accessibility](https://www.unescap.org/sites/default/files/PP%202019-01_Disability%20Inclusive%20Procurement_rev.pdf)
+- [Sarah Horton: Not it! A game of accessibility hide-and-seek with technology vendors](https://sarahhortondesign.com/2021/02/14/not-it-a-game-of-accessibility-hide-and-seek-with-technology-vendors/)
