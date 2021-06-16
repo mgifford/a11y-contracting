@@ -112,7 +112,7 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [EU: Managing accessibility in the public procurement of ICT](http://mandate376.standards.eu/)
 - [University of Washington's Example Policies in Higher Education](http://www.washington.edu/accessibility/requirements/example-policies/)
 - [Minnesota IT Services Procurement for accessible IT products and services](https://mn.gov/mnit/programs/accessibility/it-procurement.jsp)
-- [OpenConcept's Draft Procurement Policy](https://openconcept.ca/blog/mike/drafting-procurement-policy)
+- [OpenConcept's Draft Procurement Policy](https://archive.openconcept.ca/blog/mike/drafting-procurement-policy)
 - [Partnership on Employment & Accessible Technology (PEAT)'s Buy IT](http://www.peatworks.org/Buy-IT)
 - [Fluid Project - Accessible ICT Procurement Policy Wiki](https://wiki.fluidproject.org/display/fluid/Accessible+ICT+Procurement+Policy)
 - [Accessibility requirements suitable for public procurement of ICT products and services in Europe](http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.01_60/en_301549v010101p.pdf)
