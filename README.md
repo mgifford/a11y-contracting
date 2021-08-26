@@ -131,3 +131,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [UNESCAP: Disability-inclusive Public Procurement — Promoting Universial Design and Accessibility](https://www.unescap.org/sites/default/files/PP%202019-01_Disability%20Inclusive%20Procurement_rev.pdf)
 - [Sarah Horton: Not it! A game of accessibility hide-and-seek with technology vendors](https://sarahhortondesign.com/2021/02/14/not-it-a-game-of-accessibility-hide-and-seek-with-technology-vendors/)
 - [UK Cabinet Office guidance on COTS](https://www.gov.uk/guidance/define-your-purchasing-strategy)
+- [Accessibility Strategy for Procurement](https://www.tpgi.com/accessibility-strategy-for-procurement/)
