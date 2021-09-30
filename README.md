@@ -132,3 +132,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Sarah Horton: Not it! A game of accessibility hide-and-seek with technology vendors](https://sarahhortondesign.com/2021/02/14/not-it-a-game-of-accessibility-hide-and-seek-with-technology-vendors/)
 - [UK Cabinet Office guidance on COTS](https://www.gov.uk/guidance/define-your-purchasing-strategy)
 - [Accessibility Strategy for Procurement](https://www.tpgi.com/accessibility-strategy-for-procurement/)
+- [Model Procurement Language for ICT](https://www.peatworks.org/model-procurement-language-for-ict/)
