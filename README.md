@@ -133,3 +133,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [UK Cabinet Office guidance on COTS](https://www.gov.uk/guidance/define-your-purchasing-strategy)
 - [Accessibility Strategy for Procurement](https://www.tpgi.com/accessibility-strategy-for-procurement/)
 - [Model Procurement Language for ICT](https://www.peatworks.org/model-procurement-language-for-ict/)
+- [Asking the Right Questions for Procuring Inclusive, Accessible Technology](https://er.educause.edu/articles/2021/10/asking-the-right-questions-for-procuring-inclusive-accessible-technology)
