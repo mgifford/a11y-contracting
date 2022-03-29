@@ -134,3 +134,5 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Accessibility Strategy for Procurement](https://www.tpgi.com/accessibility-strategy-for-procurement/)
 - [Model Procurement Language for ICT](https://www.peatworks.org/model-procurement-language-for-ict/)
 - [Asking the Right Questions for Procuring Inclusive, Accessible Technology](https://er.educause.edu/articles/2021/10/asking-the-right-questions-for-procuring-inclusive-accessible-technology)
+- [G3ict's Buy ICT for All](https://buyict4all.org/)
+- [G3ict's SmartCity for All - Inclusive Procurement Launchpad Project](https://smartcities4all.org/inclusive-procurement-launchpad/)
