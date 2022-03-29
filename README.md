@@ -136,3 +136,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Asking the Right Questions for Procuring Inclusive, Accessible Technology](https://er.educause.edu/articles/2021/10/asking-the-right-questions-for-procuring-inclusive-accessible-technology)
 - [G3ict's Buy ICT for All](https://buyict4all.org/)
 - [G3ict's SmartCity for All - Inclusive Procurement Launchpad Project](https://smartcities4all.org/inclusive-procurement-launchpad/)
+- [GSA's OpenACR](https://gsa.github.io/openacr-editor/) a modern Accessibility Conformance Report
