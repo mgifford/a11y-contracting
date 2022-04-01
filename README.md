@@ -109,14 +109,13 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 ## Useful Links
 - [Disability:INclusive Workplaces – Accessible Technology Procurement Toolkit](https://private.disabilityin.org/procurementtoolkit/)
 - [Republic of Ireland's NDA IT Procurement Toolkit](http://universaldesign.ie/Technology-ICT/IT-Procurement-Toolkit/IT-Procurement-Toolkit.html)
-- [EU: Managing accessibility in the public procurement of ICT](http://mandate376.standards.eu/)
 - [University of Washington's Example Policies in Higher Education](http://www.washington.edu/accessibility/requirements/example-policies/)
 - [Minnesota IT Services Procurement for accessible IT products and services](https://mn.gov/mnit/programs/accessibility/it-procurement.jsp)
 - [OpenConcept's Draft Procurement Policy](https://archive.openconcept.ca/blog/mike/drafting-procurement-policy)
 - [Partnership on Employment & Accessible Technology (PEAT)'s Buy IT](http://www.peatworks.org/Buy-IT)
 - [Fluid Project - Accessible ICT Procurement Policy Wiki](https://wiki.fluidproject.org/display/fluid/Accessible+ICT+Procurement+Policy)
 - [Accessibility requirements suitable for public procurement of ICT products and services in Europe](http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.01_60/en_301549v010101p.pdf)
-- [EU: Managing accessibility in the public procurement of ICT - Mandate 376](http://mandate376.standards.eu/)
+- [EU: Managing accessibility in the public procurement of ICT - Mandate 376](https://web.archive.org/web/20210226135350/http://mandate376.standards.eu/) from Archive.org
 - [a11yhuman: How do we make procurement accessible?](https://a11yhuman.wordpress.com/2018/06/28/how-do-we-make-procurement-accessible/)
 - [WebAim: The Role of Procurement in Digital Accessibility](https://wcetfrontiers.org/2018/10/23/procurement-in-digital-accessibility/)
 - [Office of the President, University of California - Electronic Accessibility Policy Procurement](https://www.ucop.edu/electronic-accessibility/standards-and-best-practices/procurement/index.html)
