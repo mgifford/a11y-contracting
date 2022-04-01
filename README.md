@@ -107,35 +107,51 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Accessibility & Procurement: Where it All Goes Wrong!](https://docs.google.com/presentation/d/1VTnFjkBX0-iwfhVz6aAcrPWtqEQyplHLJsj2kF7wQAg/edit?usp=sharing) by [Mike Gifford](https://twitter.com/mgifford)
 
 ## Useful Links
-- [Disability:INclusive Workplaces – Accessible Technology Procurement Toolkit](https://private.disabilityin.org/procurementtoolkit/)
-- [Republic of Ireland's NDA IT Procurement Toolkit](http://universaldesign.ie/Technology-ICT/IT-Procurement-Toolkit/IT-Procurement-Toolkit.html)
-- [University of Washington's Example Policies in Higher Education](http://www.washington.edu/accessibility/requirements/example-policies/)
-- [Minnesota IT Services Procurement for accessible IT products and services](https://mn.gov/mnit/programs/accessibility/it-procurement.jsp)
-- [OpenConcept's Draft Procurement Policy](https://archive.openconcept.ca/blog/mike/drafting-procurement-policy)
-- [Partnership on Employment & Accessible Technology (PEAT)'s Buy IT](http://www.peatworks.org/Buy-IT)
-- [Fluid Project - Accessible ICT Procurement Policy Wiki](https://wiki.fluidproject.org/display/fluid/Accessible+ICT+Procurement+Policy)
-- [Accessibility requirements suitable for public procurement of ICT products and services in Europe](http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.01_60/en_301549v010101p.pdf)
-- [EU: Managing accessibility in the public procurement of ICT - Mandate 376](https://web.archive.org/web/20210226135350/http://mandate376.standards.eu/) from Archive.org
-- [a11yhuman: How do we make procurement accessible?](https://a11yhuman.wordpress.com/2018/06/28/how-do-we-make-procurement-accessible/)
-- [WebAim: The Role of Procurement in Digital Accessibility](https://wcetfrontiers.org/2018/10/23/procurement-in-digital-accessibility/)
-- [Office of the President, University of California - Electronic Accessibility Policy Procurement](https://www.ucop.edu/electronic-accessibility/standards-and-best-practices/procurement/index.html)
-- [Business Disability International: Global Procurement Taskforce](https://www.businessdisabilityinternational.org/global-procurement-taskforce/)
-- [Throwing Your Organization’s Money Away Or Why Must Your Organization Pay to Test Accessibility of IT Products and Services It Purchases??](https://jeffklinesstrategicitaccessibilityblog.wordpress.com/2017/09/05/throwing-your-organizations-money-away-or-why-must-your/) by Jeff Klines
-- [NASCIO: Accessibility in IT Procurement](https://www.nascio.org/pdaa) by Mike Cooke
-- [WP1824: Global Digital Marketplace ICT commissioning guidelines and associated KPIs](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities/11083) by the UK Gov Digital Marketplace
-- [Procure accessibility](https://www.accessibilityassociation.org/content.asp?admin=Y&contentid=624)
-- [Jonathan Hassell: How do I know if my digital agency are baking in accessibility to my products?](https://www.linkedin.com/pulse/how-do-i-know-my-digital-agency-baking-accessibility-products/)
-- [Temple University: A guide to accessible purchasing](https://accessibility.temple.edu/guide-accessible-purchasing)
-- [NASCIO: Accessibility in IT Procurement Part 1](https://www.nascio.org/resource-center/resources/accessibility-in-it-procurement-part-1/) and [Part 2](https://www.nascio.org/resource-center/resources/accessibility-in-it-procurement-part-2/)
+
+### Government
+
 - [UNESCAP: Disability-inclusive Public Procurement — Promoting Universial Design and Accessibility](https://www.unescap.org/sites/default/files/PP%202019-01_Disability%20Inclusive%20Procurement_rev.pdf)
-- [Sarah Horton: Not it! A game of accessibility hide-and-seek with technology vendors](https://sarahhortondesign.com/2021/02/14/not-it-a-game-of-accessibility-hide-and-seek-with-technology-vendors/)
-- [UK Cabinet Office guidance on COTS](https://www.gov.uk/guidance/define-your-purchasing-strategy)
-- [Accessibility Strategy for Procurement](https://www.tpgi.com/accessibility-strategy-for-procurement/)
-- [Model Procurement Language for ICT](https://www.peatworks.org/model-procurement-language-for-ict/)
-- [Asking the Right Questions for Procuring Inclusive, Accessible Technology](https://er.educause.edu/articles/2021/10/asking-the-right-questions-for-procuring-inclusive-accessible-technology)
-- [G3ict's Buy ICT for All](https://buyict4all.org/)
-- [G3ict's SmartCity for All - Inclusive Procurement Launchpad Project](https://smartcities4all.org/inclusive-procurement-launchpad/)
+- [World Bank Guidebook for Accessible GovTech](https://thedocs.worldbank.org/en/doc/3fcff7a44bd530a0413e23245ace2f03-0350012021/related/EFI-Insight-Accessible-GovTech-4-1.pdf))
+
+#### North America
 - [GSA's Buy or Sell Accessible ICT](https://www.section508.gov/buy-sell/)
+- [Model Procurement Language for ICT](https://www.peatworks.org/model-procurement-language-for-ict/)
 - [GSA's OpenACR](https://gsa.github.io/openacr-editor/) a modern Accessibility Conformance Report
 - [GSA's Accessibility Requirements Tool (ART)](https://app.buyaccessible.gov/art/home)
+- [NASCIO: Accessibility in IT Procurement](https://www.nascio.org/pdaa) by Mike Cooke
+- [NASCIO: Accessibility in IT Procurement Part 1](https://www.nascio.org/resource-center/resources/accessibility-in-it-procurement-part-1/) and [Part 2](https://www.nascio.org/resource-center/resources/accessibility-in-it-procurement-part-2/)
+- [Minnesota IT Services Procurement for accessible IT products and services](https://mn.gov/mnit/programs/accessibility/it-procurement.jsp)
+- [Partnership on Employment & Accessible Technology (PEAT)'s Buy IT](http://www.peatworks.org/Buy-IT)
+
+
+#### Europe 
+- [Republic of Ireland's NDA IT Procurement Toolkit](http://universaldesign.ie/Technology-ICT/IT-Procurement-Toolkit/IT-Procurement-Toolkit.html)
+- [Accessibility requirements suitable for public procurement of ICT products and services in Europe](http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.01_60/en_301549v010101p.pdf)
+- [EU: Managing accessibility in the public procurement of ICT - Mandate 376](https://web.archive.org/web/20210226135350/http://mandate376.standards.eu/) from Archive.org
+- [WP1824: Global Digital Marketplace ICT commissioning guidelines and associated KPIs](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities/11083) by the UK Gov Digital Marketplace
+- [UK Cabinet Office guidance on COTS](https://www.gov.uk/guidance/define-your-purchasing-strategy)
+
+
+
+### Education
+- [University of Washington's Example Policies in Higher Education](http://www.washington.edu/accessibility/requirements/example-policies/)
+- [Fluid Project - Accessible ICT Procurement Policy Wiki](https://wiki.fluidproject.org/display/fluid/Accessible+ICT+Procurement+Policy)
+- [Office of the President, University of California - Electronic Accessibility Policy Procurement](https://www.ucop.edu/electronic-accessibility/standards-and-best-practices/procurement/index.html)
+- [Temple University: A guide to accessible purchasing](https://accessibility.temple.edu/guide-accessible-purchasing)
+- [Asking the Right Questions for Procuring Inclusive, Accessible Technology](https://er.educause.edu/articles/2021/10/asking-the-right-questions-for-procuring-inclusive-accessible-technology)
+
+
+### Business / NGO / Other
+- [Disability:INclusive Workplaces – Accessible Technology Procurement Toolkit](https://private.disabilityin.org/procurementtoolkit/)
+- [G3ict's Buy ICT for All](https://buyict4all.org/)
+- [G3ict's SmartCity for All - Inclusive Procurement Launchpad Project](https://smartcities4all.org/inclusive-procurement-launchpad/)
+- [OpenConcept's Draft Procurement Policy](https://archive.openconcept.ca/blog/mike/drafting-procurement-policy)
+- [a11yhuman: How do we make procurement accessible?](https://a11yhuman.wordpress.com/2018/06/28/how-do-we-make-procurement-accessible/)
+- [WebAim: The Role of Procurement in Digital Accessibility](https://wcetfrontiers.org/2018/10/23/procurement-in-digital-accessibility/)
+- [Business Disability International: Global Procurement Taskforce](https://www.businessdisabilityinternational.org/global-procurement-taskforce/)
+- [Throwing Your Organization’s Money Away Or Why Must Your Organization Pay to Test Accessibility of IT Products and Services It Purchases??](https://jeffklinesstrategicitaccessibilityblog.wordpress.com/2017/09/05/throwing-your-organizations-money-away-or-why-must-your/) by Jeff Klines
+- [Procure accessibility](https://www.accessibilityassociation.org/content.asp?admin=Y&contentid=624)
+- [Jonathan Hassell: How do I know if my digital agency are baking in accessibility to my products?](https://www.linkedin.com/pulse/how-do-i-know-my-digital-agency-baking-accessibility-products/)
+- [Sarah Horton: Not it! A game of accessibility hide-and-seek with technology vendors](https://sarahhortondesign.com/2021/02/14/not-it-a-game-of-accessibility-hide-and-seek-with-technology-vendors/)
+- [Accessibility Strategy for Procurement](https://www.tpgi.com/accessibility-strategy-for-procurement/)
 - [NFB's Accessibility Switchboard](https://accessibilityswitchboard.org/)
