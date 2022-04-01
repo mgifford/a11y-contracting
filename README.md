@@ -110,8 +110,8 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 
 ### Government
 
-- [UNESCAP: Disability-inclusive Public Procurement — Promoting Universial Design and Accessibility](https://www.unescap.org/sites/default/files/PP%202019-01_Disability%20Inclusive%20Procurement_rev.pdf)
-- [World Bank Guidebook for Accessible GovTech](https://thedocs.worldbank.org/en/doc/3fcff7a44bd530a0413e23245ace2f03-0350012021/related/EFI-Insight-Accessible-GovTech-4-1.pdf))
+- [UNESCAP: Disability-inclusive Public Procurement — Promoting Universial Design and Accessibility](https://www.unescap.org/sites/default/files/PP%202019-01_Disability%20Inclusive%20Procurement_rev.pdf) (pdf)
+- [World Bank Guidebook for Accessible GovTech](https://thedocs.worldbank.org/en/doc/3fcff7a44bd530a0413e23245ace2f03-0350012021/related/EFI-Insight-Accessible-GovTech-4-1.pdf)) (pdf)
 
 #### North America
 - [GSA's Buy or Sell Accessible ICT](https://www.section508.gov/buy-sell/)
