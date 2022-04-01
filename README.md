@@ -136,4 +136,5 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [G3ict's Buy ICT for All](https://buyict4all.org/)
 - [G3ict's SmartCity for All - Inclusive Procurement Launchpad Project](https://smartcities4all.org/inclusive-procurement-launchpad/)
 - [GSA's OpenACR](https://gsa.github.io/openacr-editor/) a modern Accessibility Conformance Report
+- [GSA's Accessibility Requirements Tool (ART)](https://app.buyaccessible.gov/art/home)
 - [NFB's Accessibility Switchboard](https://accessibilityswitchboard.org/)
