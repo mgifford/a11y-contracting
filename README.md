@@ -135,6 +135,7 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Asking the Right Questions for Procuring Inclusive, Accessible Technology](https://er.educause.edu/articles/2021/10/asking-the-right-questions-for-procuring-inclusive-accessible-technology)
 - [G3ict's Buy ICT for All](https://buyict4all.org/)
 - [G3ict's SmartCity for All - Inclusive Procurement Launchpad Project](https://smartcities4all.org/inclusive-procurement-launchpad/)
+- [GSA's Buy or Sell Accessible ICT](https://www.section508.gov/buy-sell/)
 - [GSA's OpenACR](https://gsa.github.io/openacr-editor/) a modern Accessibility Conformance Report
 - [GSA's Accessibility Requirements Tool (ART)](https://app.buyaccessible.gov/art/home)
 - [NFB's Accessibility Switchboard](https://accessibilityswitchboard.org/)
