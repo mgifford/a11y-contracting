@@ -155,3 +155,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Sarah Horton: Not it! A game of accessibility hide-and-seek with technology vendors](https://sarahhortondesign.com/2021/02/14/not-it-a-game-of-accessibility-hide-and-seek-with-technology-vendors/)
 - [Accessibility Strategy for Procurement](https://www.tpgi.com/accessibility-strategy-for-procurement/)
 - [NFB's Accessibility Switchboard](https://accessibilityswitchboard.org/)
+- [CAUDIT's Guide to procuring accessible ICT for Higher Education providers](https://caudit.edu.au/accessible-it-procurement/)
