@@ -121,6 +121,7 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [NASCIO: Accessibility in IT Procurement](https://www.nascio.org/pdaa) by Mike Cooke
 - [NASCIO: Accessibility in IT Procurement Part 1](https://www.nascio.org/resource-center/resources/accessibility-in-it-procurement-part-1/) and [Part 2](https://www.nascio.org/resource-center/resources/accessibility-in-it-procurement-part-2/)
 - [Minnesota IT Services Procurement for accessible IT products and services](https://mn.gov/mnit/programs/accessibility/it-procurement.jsp)
+- [Minnesota IT - Buying Accessible IT: Who is Responsible?](https://mn.gov/mnit/media/blog/?id=38-561042)
 - [Partnership on Employment & Accessible Technology (PEAT)'s Buy IT](http://www.peatworks.org/Buy-IT)
 
 
