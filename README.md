@@ -157,3 +157,4 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Accessibility Strategy for Procurement](https://www.tpgi.com/accessibility-strategy-for-procurement/)
 - [NFB's Accessibility Switchboard](https://accessibilityswitchboard.org/)
 - [CAUDIT's Guide to procuring accessible ICT for Higher Education providers](https://caudit.edu.au/accessible-it-procurement/)
+- [AbilityNet - 10 Tips for Accessible Procurement](https://abilitynet.org.uk/news-blogs/10-tips-accessible-procurement)
