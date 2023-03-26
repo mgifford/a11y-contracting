@@ -151,6 +151,7 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [WebAim: The Role of Procurement in Digital Accessibility](https://wcetfrontiers.org/2018/10/23/procurement-in-digital-accessibility/)
 - [Business Disability International: Global Procurement Taskforce](https://www.businessdisabilityinternational.org/global-procurement-taskforce/)
 - [Throwing Your Organization’s Money Away Or Why Must Your Organization Pay to Test Accessibility of IT Products and Services It Purchases??](https://jeffklinesstrategicitaccessibilityblog.wordpress.com/2017/09/05/throwing-your-organizations-money-away-or-why-must-your/) by Jeff Klines
+- [Strategic IT Accessibility: Enabling the Organization 2nd Edition](https://www.strategicaccessibility.com/) book by Jeff Klines
 - [Procure accessibility](https://www.accessibilityassociation.org/content.asp?admin=Y&contentid=624)
 - [Jonathan Hassell: How do I know if my digital agency are baking in accessibility to my products?](https://www.linkedin.com/pulse/how-do-i-know-my-digital-agency-baking-accessibility-products/)
 - [Sarah Horton: Not it! A game of accessibility hide-and-seek with technology vendors](https://sarahhortondesign.com/2021/02/14/not-it-a-game-of-accessibility-hide-and-seek-with-technology-vendors/)
