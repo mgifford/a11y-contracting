@@ -140,6 +140,7 @@ Based roughly on [Smart Practices for Addressing Accessibility in Vendor Contrac
 - [Office of the President, University of California - Electronic Accessibility Policy Procurement](https://www.ucop.edu/electronic-accessibility/standards-and-best-practices/procurement/index.html)
 - [Temple University: A guide to accessible purchasing](https://accessibility.temple.edu/guide-accessible-purchasing)
 - [Asking the Right Questions for Procuring Inclusive, Accessible Technology](https://er.educause.edu/articles/2021/10/asking-the-right-questions-for-procuring-inclusive-accessible-technology)
+- [Accessible IT Procurement: A guide to procuring accessible ICT for Higher Education](https://caudit.edu.au/accessible-it-procurement/guide/)
 
 
 ### Business / NGO / Other
